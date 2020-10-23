@@ -1,7 +1,14 @@
 import * as d3 from "d3"
 import { group } from 'd3-array'
 import mustache from 'shared/js/mustache'
-import template from "shared/templates/template.html"
+const template = `<div>
+	Company: <strong>{{name}}</strong><br/>
+	Female directors: <strong style="color:#d95f02;">{{F}}</strong><br/>
+	Male directors: <strong style="color:#1b9e77;">{{M}}</strong><br/>
+	Connections: <strong>{{connections}}</strong>
+</div>`
+
+//shared/templates/template.html"
 
 
 
