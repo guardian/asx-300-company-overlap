@@ -3,8 +3,6 @@ import { group } from 'd3-array'
 import mustache from 'shared/js/mustache'
 import template from "shared/templates/template.html"
 
-
-
 function init(data) {	
 
 	var width = document.querySelector("#graphicContainer").getBoundingClientRect().width;
