@@ -1,9 +1,132 @@
 @import "fonts";
 @import "mq";
 @import "palette";
-// @import "enhancer";
+@import "charts";
+@import "grid";
 
 .interactive-atom {
     margin: 0;
     padding: 0;
+
+    .all .articleLink a {
+        display: none;
+    }
+
+    .interactive-container {
+    	max-width: 1200px;
+    }
+
+    #graphicContainer {
+    	position: relative;
+    }
+
+    #controlRow {
+        position:relative;
+    }
+
+    #hintSelector {
+        position: absolute;
+        left: 180px;
+        top: 54px;
+    }
+
+    #hintDogs {
+        position: absolute;
+        left: 50%;
+        top: 20%;
+    }
+
+    .hints {
+        cursor: pointer;
+    }
+
+    @media (max-width: 750px) {
+        #hintSelector {
+        left: 180px;
+        top: 60px;
+        }
+
+        #hintDogs {
+            left: 50%;
+            top: 20%;
+        }
+
+    }
+
+    @media (max-width: 450px) {
+        #hintSelector {
+            max-width: 50%;
+        }
+
+        #hintDogs {
+            max-width:50%;
+        }
+
+    }
+
+
+    #infoPanel {
+    	background-color: #FFF;
+    	border:2px solid #000;
+   		position: absolute;
+   		left:10px;
+   		top:10px;
+    }
+
+    .infoInner {
+    	padding: 5px;
+    }
+
+    .hide {
+    	display: none;
+    }
+
+    #chartKey {
+    	width: 100%;
+    }
+
+    .keyText {
+    	fill:#767676;
+    	color:#767676;
+    	font-size:10px;
+    }
+
+    .upDown {
+            width:14px;
+            height:14px;
+            border-radius: 50%;
+            border:0.5px solid #767676;
+            display: inline-block;
+            font-size: 13px;
+            text-align: center;
+        }
+
+    .upDownButton {
+        cursor: pointer;
+        margin-bottom: 10px;
+    }    
+
+    #colorKey {
+
+
+
+        div {
+            display: inline-block;
+        }
+
+        .colorKeyDiv {
+            padding-right: 10px;
+        }
+
+        .colorKeyCircle {
+            width:12px;
+            height:12px;
+            border-radius: 50%;
+            display: inline-block;
+        }
+    }
+
+ /*   #keySvg {
+    	background-color: red;
+    }*/
 }

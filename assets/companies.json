@@ -1,0 +1,6506 @@
+{
+    "nodes": [
+        {
+            "id": "A2M",
+            "name": "The a2 Milk Company Limited",
+            "cap": 10433375042.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 3.0,
+            "m_pct": 60.0,
+            "f_pct": 40.0
+        },
+        {
+            "id": "AAC",
+            "name": "Australian Agricultural Company Limited",
+            "cap": 650988086.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 8.0,
+            "m_pct": 88.88888888888889,
+            "f_pct": 11.11111111111111
+        },
+        {
+            "id": "ABC",
+            "name": "ADBRI Limited",
+            "cap": 1858959145.0,
+            "index": "S&P/ASX 200",
+            "F": 3.0,
+            "M": 3.0,
+            "m_pct": 50.0,
+            "f_pct": 50.0
+        },
+        {
+            "id": "ABP",
+            "name": "Abacus Property Group",
+            "cap": 1937203458.0,
+            "index": "S&P/ASX 200",
+            "F": 3.0,
+            "M": 3.0,
+            "m_pct": 50.0,
+            "f_pct": 50.0
+        },
+        {
+            "id": "AD8",
+            "name": "Audinate Group limited",
+            "cap": 439655549.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 6.0,
+            "m_pct": 85.71428571428571,
+            "f_pct": 14.285714285714285
+        },
+        {
+            "id": "ADI",
+            "name": "APN Industria REIT",
+            "cap": 527393135.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 3.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "AEF",
+            "name": "Australian Ethical Investment Limited",
+            "cap": 501246635.0,
+            "index": "S&P/ASX 300",
+            "F": 3.0,
+            "M": 3.0,
+            "m_pct": 50.0,
+            "f_pct": 50.0
+        },
+        {
+            "id": "AFG",
+            "name": "Australian Finance Group Ltd",
+            "cap": 571654503.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "AGL",
+            "name": "AGL Energy Limited",
+            "cap": 8485720233.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "AHY",
+            "name": "Asaleo Care Limited",
+            "cap": 545838103.0,
+            "index": "S&P/ASX 300",
+            "F": 3.0,
+            "M": 3.0,
+            "m_pct": 50.0,
+            "f_pct": 50.0
+        },
+        {
+            "id": "AIA",
+            "name": "Auckland International Airport Limited",
+            "cap": 9880818129.0,
+            "index": "S&P/ASX 200",
+            "F": 4.0,
+            "M": 5.0,
+            "m_pct": 55.55555555555556,
+            "f_pct": 44.44444444444444
+        },
+        {
+            "id": "ALD",
+            "name": "Ampol Limited",
+            "cap": 5980481380.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "ALG",
+            "name": "Ardent Leisure Group",
+            "cap": 268635368.0,
+            "index": "S&P/ASX 300",
+            "F": 0.0,
+            "M": 4.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "ALK",
+            "name": "Alkane Resources Ltd",
+            "cap": 839498208.0,
+            "index": "S&P/ASX 300",
+            "F": 0.0,
+            "M": 5.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "ALL",
+            "name": "Aristocrat Leisure Limited",
+            "cap": 19137168175.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 4.0,
+            "m_pct": 57.14285714285714,
+            "f_pct": 42.857142857142854
+        },
+        {
+            "id": "ALQ",
+            "name": "ALS Limited",
+            "cap": 4443141332.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "ALU",
+            "name": "Altium Limited",
+            "cap": 4704290638.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 3.0,
+            "m_pct": 60.0,
+            "f_pct": 40.0
+        },
+        {
+            "id": "ALX",
+            "name": "Atlas Arteria",
+            "cap": 5821240631.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 6.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "AMA",
+            "name": "Ama Group Limited",
+            "cap": 466028733.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 5.0,
+            "m_pct": 83.33333333333334,
+            "f_pct": 16.666666666666664
+        },
+        {
+            "id": "AMC",
+            "name": "Amcor Plc",
+            "cap": 14008277201.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 9.0,
+            "m_pct": 81.81818181818183,
+            "f_pct": 18.181818181818183
+        },
+        {
+            "id": "AMI",
+            "name": "Aurelia Metals Limited",
+            "cap": 436991898.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 5.0,
+            "m_pct": 83.33333333333334,
+            "f_pct": 16.666666666666664
+        },
+        {
+            "id": "AMP",
+            "name": "AMP Limited",
+            "cap": 4484762009.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 7.0,
+            "m_pct": 77.77777777777779,
+            "f_pct": 22.22222222222222
+        },
+        {
+            "id": "ANN",
+            "name": "Ansell Limited",
+            "cap": 4768364425.0,
+            "index": "S&P/ASX 100",
+            "F": 4.0,
+            "M": 5.0,
+            "m_pct": 55.55555555555556,
+            "f_pct": 44.44444444444444
+        },
+        {
+            "id": "ANZ",
+            "name": "Australia & New Zealand Banking Group Ltd",
+            "cap": 48838975206.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "APA",
+            "name": "APA Group",
+            "cap": 12188303449.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "APE",
+            "name": "Eagers Automotive Limited",
+            "cap": 2350937919.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 8.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "API",
+            "name": "Australian Pharmaceutical Industries Limited",
+            "cap": 517288836.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "APT",
+            "name": "Afterpay Limited",
+            "cap": 22740155045.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "APX",
+            "name": "Appen Limited",
+            "cap": 4146036582.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 4.0,
+            "m_pct": 57.14285714285714,
+            "f_pct": 42.857142857142854
+        },
+        {
+            "id": "ARB",
+            "name": "ARB Corporation Limited",
+            "cap": 2207314016.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 6.0,
+            "m_pct": 85.71428571428571,
+            "f_pct": 14.285714285714285
+        },
+        {
+            "id": "ARF",
+            "name": "Arena REIT",
+            "cap": 927627023.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 6.0,
+            "m_pct": 85.71428571428571,
+            "f_pct": 14.285714285714285
+        },
+        {
+            "id": "ASB",
+            "name": "Austal Limited",
+            "cap": 1179350420.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 4.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "AST",
+            "name": "AusNet Services",
+            "cap": 7055731505.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 7.0,
+            "m_pct": 77.77777777777779,
+            "f_pct": 22.22222222222222
+        },
+        {
+            "id": "ASX",
+            "name": "ASX Limited",
+            "cap": 15685080025.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 8.0,
+            "m_pct": 72.72727272727273,
+            "f_pct": 27.27272727272727
+        },
+        {
+            "id": "AUB",
+            "name": "AUB Group Limited",
+            "cap": 1232999992.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "AVH",
+            "name": "AVITA Therapeutics, Inc",
+            "cap": 527805598.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 5.0,
+            "m_pct": 83.33333333333334,
+            "f_pct": 16.666666666666664
+        },
+        {
+            "id": "AVN",
+            "name": "Aventus Retail Property Fund",
+            "cap": 1316786638.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 4.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "AWC",
+            "name": "Alumina Limited",
+            "cap": 3989811948.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "AX1",
+            "name": "Accent Group Limited",
+            "cap": 891370746.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 6.0,
+            "m_pct": 85.71428571428571,
+            "f_pct": 14.285714285714285
+        },
+        {
+            "id": "AZJ",
+            "name": "Aurizon Holdings Limited",
+            "cap": 8137232036.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 6.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "BAP",
+            "name": "Bapcor Limited",
+            "cap": 2304610875.0,
+            "index": "S&P/ASX 200",
+            "F": 3.0,
+            "M": 2.0,
+            "m_pct": 40.0,
+            "f_pct": 60.0
+        },
+        {
+            "id": "BBN",
+            "name": "Baby Bunting Group Limited",
+            "cap": 574040133.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "BEN",
+            "name": "Bendigo and Adelaide Bank Limited",
+            "cap": 3201095006.0,
+            "index": "S&P/ASX 100",
+            "F": 4.0,
+            "M": 5.0,
+            "m_pct": 55.55555555555556,
+            "f_pct": 44.44444444444444
+        },
+        {
+            "id": "BGA",
+            "name": "Bega Cheese Limited",
+            "cap": 1090104127.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "BGL",
+            "name": "Bellevue Gold Limited",
+            "cap": 860894909.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 3.0,
+            "m_pct": 60.0,
+            "f_pct": 40.0
+        },
+        {
+            "id": "BHP",
+            "name": "BHP Group Limited",
+            "cap": 104872000000.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 8.0,
+            "m_pct": 72.72727272727273,
+            "f_pct": 27.27272727272727
+        },
+        {
+            "id": "BIN",
+            "name": "Bingo Industries Limited",
+            "cap": 1582636834.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "BKL",
+            "name": "Blackmores Limited",
+            "cap": 1220260385.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 5.0,
+            "m_pct": 83.33333333333334,
+            "f_pct": 16.666666666666664
+        },
+        {
+            "id": "BKW",
+            "name": "Brickworks Limited",
+            "cap": 2910288602.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "BLD",
+            "name": "Boral Limited",
+            "cap": 5588981318.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 3.0,
+            "m_pct": 50.0,
+            "f_pct": 50.0
+        },
+        {
+            "id": "BOQ",
+            "name": "Bank of Queensland Limited",
+            "cap": 2603341916.0,
+            "index": "S&P/ASX 100",
+            "F": 4.0,
+            "M": 5.0,
+            "m_pct": 55.55555555555556,
+            "f_pct": 44.44444444444444
+        },
+        {
+            "id": "BPT",
+            "name": "Beach Energy Limited",
+            "cap": 3011360425.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 7.0,
+            "m_pct": 77.77777777777779,
+            "f_pct": 22.22222222222222
+        },
+        {
+            "id": "BRG",
+            "name": "Breville Group Limited",
+            "cap": 3447466739.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "BSL",
+            "name": "BlueScope Steel Limited",
+            "cap": 6398034448.0,
+            "index": "S&P/ASX 100",
+            "F": 4.0,
+            "M": 4.0,
+            "m_pct": 50.0,
+            "f_pct": 50.0
+        },
+        {
+            "id": "BUB",
+            "name": "Bubs Australia Limited",
+            "cap": 449937615.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 3.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "BVS",
+            "name": "Bravura Solutions Limited",
+            "cap": 840361078.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "BWP",
+            "name": "BWP Trust",
+            "cap": 2595230564.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "BWX",
+            "name": "BWX Limited",
+            "cap": 613993591.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "BXB",
+            "name": "Brambles Limited",
+            "cap": 15793115523.0,
+            "index": "S&P/ASX 100",
+            "F": 4.0,
+            "M": 8.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "CAR",
+            "name": "Carsales.com Limited",
+            "cap": 5086782389.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "CBA",
+            "name": "Commonwealth Bank of Australia",
+            "cap": 112605000000.0,
+            "index": "S&P/ASX 100",
+            "F": 5.0,
+            "M": 4.0,
+            "m_pct": 44.44444444444444,
+            "f_pct": 55.55555555555556
+        },
+        {
+            "id": "CCL",
+            "name": "Coca-Cola Amatil Limited",
+            "cap": 6877997140.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "CCP",
+            "name": "Credit Corp Group Limited",
+            "cap": 1140329092.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "CCX",
+            "name": "City Chic Collective Limited",
+            "cap": 665410022.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 3.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "CDA",
+            "name": "Codan Limited",
+            "cap": 1992786836.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 4.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "CGC",
+            "name": "Costa Group Holdings Limited",
+            "cap": 1346790100.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "CGF",
+            "name": "Challenger Limited",
+            "cap": 2587604415.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 7.0,
+            "m_pct": 77.77777777777779,
+            "f_pct": 22.22222222222222
+        },
+        {
+            "id": "CHC",
+            "name": "Charter Hall Group",
+            "cap": 5789609738.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "CIA",
+            "name": "Champion Iron Limited",
+            "cap": 1372113110.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 8.0,
+            "m_pct": 88.88888888888889,
+            "f_pct": 11.11111111111111
+        },
+        {
+            "id": "CIM",
+            "name": "CIMIC Group Limited",
+            "cap": 5871555482.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 8.0,
+            "m_pct": 88.88888888888889,
+            "f_pct": 11.11111111111111
+        },
+        {
+            "id": "CIP",
+            "name": "Centuria Industrial REIT",
+            "cap": 1583385458.0,
+            "index": "S&P/ASX 200",
+            "F": 0.0,
+            "M": 5.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "CKF",
+            "name": "Collins Foods Limited",
+            "cap": 1197289375.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "CLW",
+            "name": "Charter Hall Long Wale REIT",
+            "cap": 2523186500.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 3.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "CMM",
+            "name": "Capricorn Metals Ltd",
+            "cap": 632692844.0,
+            "index": "S&P/ASX 300",
+            "F": 0.0,
+            "M": 3.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "CMW",
+            "name": "Cromwell Property Group",
+            "cap": 2221483222.0,
+            "index": "S&P/ASX 200",
+            "F": 3.0,
+            "M": 3.0,
+            "m_pct": 50.0,
+            "f_pct": 50.0
+        },
+        {
+            "id": "CNI",
+            "name": "Centuria Capital Limited",
+            "cap": 1197175254.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 6.0,
+            "m_pct": 85.71428571428571,
+            "f_pct": 14.285714285714285
+        },
+        {
+            "id": "CNU",
+            "name": "Chorus Limited",
+            "cap": 3520373155.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "COE",
+            "name": "Cooper Energy Limited",
+            "cap": 569326589.0,
+            "index": "S&P/ASX 200",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "COF",
+            "name": "Centuria Office REIT",
+            "cap": 1049626526.0,
+            "index": "S&P/ASX 300",
+            "F": 0.0,
+            "M": 5.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "COH",
+            "name": "Cochlear Limited",
+            "cap": 13015359918.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 8.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "COL",
+            "name": "Coles Group Limited",
+            "cap": 22676804832.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "CPU",
+            "name": "Computershare Limited",
+            "cap": 6609548626.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "CQE",
+            "name": "Charter Hall Social Infrastructure REIT",
+            "cap": 1019850954.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 4.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "CQR",
+            "name": "Charter Hall Retail REIT",
+            "cap": 1918375166.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 4.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "CSL",
+            "name": "CSL Limited",
+            "cap": 130571000000.0,
+            "index": "S&P/ASX 100",
+            "F": 4.0,
+            "M": 5.0,
+            "m_pct": 55.55555555555556,
+            "f_pct": 44.44444444444444
+        },
+        {
+            "id": "CSR",
+            "name": "CSR Limited",
+            "cap": 2072584453.0,
+            "index": "S&P/ASX 200",
+            "F": 3.0,
+            "M": 3.0,
+            "m_pct": 50.0,
+            "f_pct": 50.0
+        },
+        {
+            "id": "CTD",
+            "name": "Corporate Travel Management Limited",
+            "cap": 1878086368.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 3.0,
+            "m_pct": 60.0,
+            "f_pct": 40.0
+        },
+        {
+            "id": "CUV",
+            "name": "Clinuvel Pharmaceuticals Limited",
+            "cap": 1151754978.0,
+            "index": "S&P/ASX 200",
+            "F": 3.0,
+            "M": 4.0,
+            "m_pct": 57.14285714285714,
+            "f_pct": 42.857142857142854
+        },
+        {
+            "id": "CVN",
+            "name": "Carnarvon Petroleum Limited",
+            "cap": 328519782.0,
+            "index": "S&P/ASX 300",
+            "F": 0.0,
+            "M": 5.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "CWN",
+            "name": "Crown Resorts Limited",
+            "cap": 5952221202.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 8.0,
+            "m_pct": 72.72727272727273,
+            "f_pct": 27.27272727272727
+        },
+        {
+            "id": "CWP",
+            "name": "Cedar Woods Properties Limited",
+            "cap": 462766911.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "CWY",
+            "name": "Cleanaway Waste Management Limited",
+            "cap": 4297713166.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "DCN",
+            "name": "Dacian Gold Limited",
+            "cap": 189212908.0,
+            "index": "S&P/ASX 300",
+            "F": 0.0,
+            "M": 4.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "DDR",
+            "name": "Dicker Data Limited",
+            "cap": 1318206466.0,
+            "index": "S&P/ASX 300",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "DEG",
+            "name": "De Grey Mining Limited",
+            "cap": 1548396074.0,
+            "index": "S&P/ASX 300",
+            "F": 0.0,
+            "M": 6.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "DHG",
+            "name": "Domain Holdings Australia Limited",
+            "cap": 2161775649.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "DMP",
+            "name": "Domino's Pizza Enterprises Limited",
+            "cap": 6854380975.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 4.0,
+            "m_pct": 57.14285714285714,
+            "f_pct": 42.857142857142854
+        },
+        {
+            "id": "DOW",
+            "name": "Downer EDI Limited",
+            "cap": 3085686357.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "DTL",
+            "name": "Data3 Limited",
+            "cap": 1010075672.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 4.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "DXS",
+            "name": "Dexus",
+            "cap": 9700787229.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 7.0,
+            "m_pct": 70.0,
+            "f_pct": 30.0
+        },
+        {
+            "id": "ECX",
+            "name": "Eclipx Group Limited",
+            "cap": 492240507.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "EHE",
+            "name": "Estia Health Limited",
+            "cap": 380184179.0,
+            "index": "S&P/ASX 300",
+            "F": 3.0,
+            "M": 4.0,
+            "m_pct": 57.14285714285714,
+            "f_pct": 42.857142857142854
+        },
+        {
+            "id": "EHL",
+            "name": "Emeco Holdings Limited",
+            "cap": 457006312.0,
+            "index": "S&P/ASX 300",
+            "F": 0.0,
+            "M": 5.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "ELD",
+            "name": "Elders Limited",
+            "cap": 1689927916.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "ELO",
+            "name": "ELMO Software Limited",
+            "cap": 452289779.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 2.0,
+            "m_pct": 50.0,
+            "f_pct": 50.0
+        },
+        {
+            "id": "EML",
+            "name": "EML Payments Limited",
+            "cap": 1028489834.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "EOS",
+            "name": "Electro Optic Systems Holdings Limited",
+            "cap": 814389298.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 5.0,
+            "m_pct": 83.33333333333334,
+            "f_pct": 16.666666666666664
+        },
+        {
+            "id": "EVN",
+            "name": "Evolution Mining Limited",
+            "cap": 9824526130.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "EVT",
+            "name": "Event Hospitality and Entertainment Ltd",
+            "cap": 1553924822.0,
+            "index": "S&P/ASX 300",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "FBU",
+            "name": "Fletcher Building Limited",
+            "cap": 2934352840.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "FLT",
+            "name": "Flight Centre Travel Group Limited",
+            "cap": 2741113111.0,
+            "index": "S&P/ASX 100",
+            "F": 1.0,
+            "M": 4.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "FMG",
+            "name": "Fortescue Metals Group Ltd",
+            "cap": 50187128163.0,
+            "index": "S&P/ASX 100",
+            "F": 4.0,
+            "M": 5.0,
+            "m_pct": 55.55555555555556,
+            "f_pct": 44.44444444444444
+        },
+        {
+            "id": "FNP",
+            "name": "Freedom Foods Group Limited",
+            "cap": 834099050.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "FPH",
+            "name": "Fisher & Paykel Healthcare Corporation Limited",
+            "cap": 17604094662.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "FXL",
+            "name": "FlexiGroup Limited",
+            "cap": 527460758.0,
+            "index": "S&P/ASX 300",
+            "F": 3.0,
+            "M": 3.0,
+            "m_pct": 50.0,
+            "f_pct": 50.0
+        },
+        {
+            "id": "GDI",
+            "name": "GDI Property Group",
+            "cap": 569724213.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 4.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "GEM",
+            "name": "G8 Education Limited",
+            "cap": 807411627.0,
+            "index": "S&P/ASX 200",
+            "F": 3.0,
+            "M": 4.0,
+            "m_pct": 57.14285714285714,
+            "f_pct": 42.857142857142854
+        },
+        {
+            "id": "GMA",
+            "name": "Genworth Mortgage Insurance Australia Limited",
+            "cap": 645584697.0,
+            "index": "S&P/ASX 300",
+            "F": 4.0,
+            "M": 5.0,
+            "m_pct": 55.55555555555556,
+            "f_pct": 44.44444444444444
+        },
+        {
+            "id": "GMG",
+            "name": "Goodman Group",
+            "cap": 33142880834.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 8.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "GNC",
+            "name": "Graincorp Limited",
+            "cap": 865074273.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 4.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "GOR",
+            "name": "Gold Road Resources Limited",
+            "cap": 1280290508.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "GOZ",
+            "name": "Growthpoint Properties Australia",
+            "cap": 2585636064.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "GPT",
+            "name": "GPT Group",
+            "cap": 7596924332.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "GUD",
+            "name": "GUD Holdings Limited",
+            "cap": 989211143.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "GWA",
+            "name": "GWA Group Limited",
+            "cap": 733774411.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "GXY",
+            "name": "Galaxy Resources Limited",
+            "cap": 464759048.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 5.0,
+            "m_pct": 83.33333333333334,
+            "f_pct": 16.666666666666664
+        },
+        {
+            "id": "HLS",
+            "name": "Healius Limited",
+            "cap": 2236599125.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "HPI",
+            "name": "Hotel Property Investments",
+            "cap": 495353011.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 4.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "HSN",
+            "name": "Hansen Technologies Limited",
+            "cap": 771354724.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 6.0,
+            "m_pct": 85.71428571428571,
+            "f_pct": 14.285714285714285
+        },
+        {
+            "id": "HUB",
+            "name": "HUB24 Limited",
+            "cap": 1162653405.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 5.0,
+            "m_pct": 83.33333333333334,
+            "f_pct": 16.666666666666664
+        },
+        {
+            "id": "HVN",
+            "name": "Harvey Norman Holdings Ltd",
+            "cap": 5644410142.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 9.0,
+            "m_pct": 90.0,
+            "f_pct": 10.0
+        },
+        {
+            "id": "IAG",
+            "name": "Insurance Australia Group Limited",
+            "cap": 10122384033.0,
+            "index": "S&P/ASX 100",
+            "F": 4.0,
+            "M": 6.0,
+            "m_pct": 60.0,
+            "f_pct": 40.0
+        },
+        {
+            "id": "IAP",
+            "name": "Investec Australia Property Fund",
+            "cap": 794687509.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "IDX",
+            "name": "Integral Diagnostics Limited",
+            "cap": 831599515.0,
+            "index": "S&P/ASX 300",
+            "F": 3.0,
+            "M": 4.0,
+            "m_pct": 57.14285714285714,
+            "f_pct": 42.857142857142854
+        },
+        {
+            "id": "IEL",
+            "name": "IDP Education Limited",
+            "cap": 5291171371.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 6.0,
+            "m_pct": 85.71428571428571,
+            "f_pct": 14.285714285714285
+        },
+        {
+            "id": "IFL",
+            "name": "IOOF Holdings Limited",
+            "cap": 1999919016.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "IFM",
+            "name": "Infomedia Limited",
+            "cap": 606621354.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "IGO",
+            "name": "IGO Limited",
+            "cap": 2457715661.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "ILU",
+            "name": "Iluka Resources Limited",
+            "cap": 3813382522.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "IMD",
+            "name": "Imdex Limited",
+            "cap": 531246216.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 4.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "INA",
+            "name": "Ingenia Communities Group",
+            "cap": 1489531341.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "ING",
+            "name": "Inghams Group Limited",
+            "cap": 1107605210.0,
+            "index": "S&P/ASX 200",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "INR",
+            "name": "ioneer Ltd",
+            "cap": 201858889.0,
+            "index": "S&P/ASX 300",
+            "F": 0.0,
+            "M": 6.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "IPH",
+            "name": "IPH Limited",
+            "cap": 1545844694.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 3.0,
+            "m_pct": 60.0,
+            "f_pct": 40.0
+        },
+        {
+            "id": "IPL",
+            "name": "Incitec Pivot Limited",
+            "cap": 3942716808.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 3.0,
+            "m_pct": 50.0,
+            "f_pct": 50.0
+        },
+        {
+            "id": "IRE",
+            "name": "IRESS Limited",
+            "cap": 1849343740.0,
+            "index": "S&P/ASX 200",
+            "F": 3.0,
+            "M": 6.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "IRI",
+            "name": "Integrated Research Limited",
+            "cap": 608634865.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 5.0,
+            "m_pct": 83.33333333333334,
+            "f_pct": 16.666666666666664
+        },
+        {
+            "id": "IVC",
+            "name": "InvoCare Limited",
+            "cap": 1402328665.0,
+            "index": "S&P/ASX 200",
+            "F": 3.0,
+            "M": 4.0,
+            "m_pct": 57.14285714285714,
+            "f_pct": 42.857142857142854
+        },
+        {
+            "id": "JBH",
+            "name": "JB Hi-Fi Limited",
+            "cap": 5406411486.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "JHG",
+            "name": "Janus Henderson Group PLC",
+            "cap": 1114475627.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 8.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "JHX",
+            "name": "James Hardie Industries Plc",
+            "cap": 14712069495.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 9.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "JIN",
+            "name": "Jumbo Interactive Limited",
+            "cap": 780609462.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 4.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "JMS",
+            "name": "Jupiter Mines Limited.",
+            "cap": 548517489.0,
+            "index": "S&P/ASX 300",
+            "F": 0.0,
+            "M": 6.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "KAR",
+            "name": "Karoon Energy Ltd",
+            "cap": 426174280.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 6.0,
+            "m_pct": 85.71428571428571,
+            "f_pct": 14.285714285714285
+        },
+        {
+            "id": "KGN",
+            "name": "Kogan.com Ltd",
+            "cap": 2131449518.0,
+            "index": "S&P/ASX 300",
+            "F": 0.0,
+            "M": 4.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "KMD",
+            "name": "Kathmandu Holdings Limited",
+            "cap": 815351591.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 5.0,
+            "m_pct": 83.33333333333334,
+            "f_pct": 16.666666666666664
+        },
+        {
+            "id": "LIC",
+            "name": "Lifestyle Communities Limited",
+            "cap": 1027678637.0,
+            "index": "S&P/ASX 300",
+            "F": 3.0,
+            "M": 3.0,
+            "m_pct": 50.0,
+            "f_pct": 50.0
+        },
+        {
+            "id": "LLC",
+            "name": "Lendlease Group",
+            "cap": 7591591484.0,
+            "index": "S&P/ASX 100",
+            "F": 4.0,
+            "M": 6.0,
+            "m_pct": 60.0,
+            "f_pct": 40.0
+        },
+        {
+            "id": "LNK",
+            "name": "Link Administration Holdings Limited",
+            "cap": 1981649621.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "LOV",
+            "name": "Lovisa Holdings Limited",
+            "cap": 889765868.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "LYC",
+            "name": "Lynas Corporation Limited",
+            "cap": 2090502303.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "MAH",
+            "name": "Macmahon Holdings Limited",
+            "cap": 549521383.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 6.0,
+            "m_pct": 85.71428571428571,
+            "f_pct": 14.285714285714285
+        },
+        {
+            "id": "MFG",
+            "name": "Magellan Financial Group Limited",
+            "cap": 10392365709.0,
+            "index": "S&P/ASX 100",
+            "F": 1.0,
+            "M": 6.0,
+            "m_pct": 85.71428571428571,
+            "f_pct": 14.285714285714285
+        },
+        {
+            "id": "MGR",
+            "name": "Mirvac Group",
+            "cap": 8583873191.0,
+            "index": "S&P/ASX 100",
+            "F": 4.0,
+            "M": 4.0,
+            "m_pct": 50.0,
+            "f_pct": 50.0
+        },
+        {
+            "id": "MGX",
+            "name": "Mount Gibson Iron Limited",
+            "cap": 859789954.0,
+            "index": "S&P/ASX 300",
+            "F": 0.0,
+            "M": 6.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "MIN",
+            "name": "Mineral Resources Limited",
+            "cap": 4697963749.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 4.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "MLD",
+            "name": "Maca Limited",
+            "cap": 221106359.0,
+            "index": "S&P/ASX 300",
+            "F": 0.0,
+            "M": 6.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "MMS",
+            "name": "McMillan Shakespeare Limited",
+            "cap": 635298888.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "MND",
+            "name": "Monadelphous Group Limited",
+            "cap": 959664597.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "MNY",
+            "name": "Money3 Corporation Limited",
+            "cap": 387245848.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 3.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "MP1",
+            "name": "Megaport Limited",
+            "cap": 2482688705.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 3.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "MPL",
+            "name": "Medibank Private Limited",
+            "cap": 6912548132.0,
+            "index": "S&P/ASX 100",
+            "F": 5.0,
+            "M": 4.0,
+            "m_pct": 44.44444444444444,
+            "f_pct": 55.55555555555556
+        },
+        {
+            "id": "MQG",
+            "name": "Macquarie Group Limited",
+            "cap": 43224988680.0,
+            "index": "S&P/ASX 100",
+            "F": 4.0,
+            "M": 7.0,
+            "m_pct": 63.63636363636363,
+            "f_pct": 36.36363636363637
+        },
+        {
+            "id": "MSB",
+            "name": "Mesoblast Limited",
+            "cap": 2979860842.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 6.0,
+            "m_pct": 85.71428571428571,
+            "f_pct": 14.285714285714285
+        },
+        {
+            "id": "MTS",
+            "name": "Metcash Limited",
+            "cap": 2821721385.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "MVF",
+            "name": "Monash IVF Group Limited",
+            "cap": 251314471.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 5.0,
+            "m_pct": 83.33333333333334,
+            "f_pct": 16.666666666666664
+        },
+        {
+            "id": "MVP",
+            "name": "Medical Developments International Limited",
+            "cap": 346492032.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 4.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "MYS",
+            "name": "MyState Limited",
+            "cap": 331310574.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "MYX",
+            "name": "Mayne Pharma Group Limited",
+            "cap": 654836571.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 7.0,
+            "m_pct": 87.5,
+            "f_pct": 12.5
+        },
+        {
+            "id": "NAB",
+            "name": "National Australia Bank Limited",
+            "cap": 58399157654.0,
+            "index": "S&P/ASX 100",
+            "F": 4.0,
+            "M": 6.0,
+            "m_pct": 60.0,
+            "f_pct": 40.0
+        },
+        {
+            "id": "NAN",
+            "name": "Nanosonics Limited",
+            "cap": 1708691100.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "NCK",
+            "name": "Nick Scali Limited",
+            "cap": 690120000.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 3.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "NCM",
+            "name": "Newcrest Mining Limited",
+            "cap": 25509226122.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "NEA",
+            "name": "Nearmap Ltd",
+            "cap": 1138106959.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "NEC",
+            "name": "Nine Entertainment Co. Holdings Limited",
+            "cap": 2975911226.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 4.0,
+            "m_pct": 57.14285714285714,
+            "f_pct": 42.857142857142854
+        },
+        {
+            "id": "NGI",
+            "name": "Navigator Global Investments Limited",
+            "cap": 247275542.0,
+            "index": "S&P/ASX 300",
+            "F": 0.0,
+            "M": 5.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "NHC",
+            "name": "New Hope Corporation Limited",
+            "cap": 1069578850.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 6.0,
+            "m_pct": 85.71428571428571,
+            "f_pct": 14.285714285714285
+        },
+        {
+            "id": "NHF",
+            "name": "NIB Holdings Limited",
+            "cap": 1863823666.0,
+            "index": "S&P/ASX 100",
+            "F": 4.0,
+            "M": 4.0,
+            "m_pct": 50.0,
+            "f_pct": 50.0
+        },
+        {
+            "id": "NIC",
+            "name": "Nickel Mines Limited",
+            "cap": 1436467258.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 8.0,
+            "m_pct": 88.88888888888889,
+            "f_pct": 11.11111111111111
+        },
+        {
+            "id": "NSR",
+            "name": "National Storage REIT",
+            "cap": 1847110794.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 5.0,
+            "m_pct": 83.33333333333334,
+            "f_pct": 16.666666666666664
+        },
+        {
+            "id": "NST",
+            "name": "Northern Star Resources Ltd",
+            "cap": 10106724039.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "NUF",
+            "name": "Nufarm Limited",
+            "cap": 1461824618.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "NWH",
+            "name": "NRW Holdings Limited",
+            "cap": 866171329.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 4.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "NWL",
+            "name": "Netwealth Group Limited",
+            "cap": 3608210054.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "NWS",
+            "name": "News Corporation",
+            "cap": 889317998.0,
+            "index": "S&P/ASX 200",
+            "F": 3.0,
+            "M": 8.0,
+            "m_pct": 72.72727272727273,
+            "f_pct": 27.27272727272727
+        },
+        {
+            "id": "NXT",
+            "name": "NEXTDC Limited",
+            "cap": 5597261564.0,
+            "index": "S&P/ASX 100",
+            "F": 1.0,
+            "M": 5.0,
+            "m_pct": 83.33333333333334,
+            "f_pct": 16.666666666666664
+        },
+        {
+            "id": "OBL",
+            "name": "Omni Bridgeway Limited",
+            "cap": 998456519.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "OFX",
+            "name": "OFX Group Limited",
+            "cap": 268259383.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 4.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "OML",
+            "name": "Oohmedia Limited ",
+            "cap": 716063818.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "OPT",
+            "name": "Opthea Limited",
+            "cap": 764408063.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 2.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "ORA",
+            "name": "Orora Limited",
+            "cap": 2316870854.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "ORE",
+            "name": "Orocobre Limited",
+            "cap": 811303765.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 7.0,
+            "m_pct": 87.5,
+            "f_pct": 12.5
+        },
+        {
+            "id": "ORG",
+            "name": "Origin Energy Limited",
+            "cap": 7573207605.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 7.0,
+            "m_pct": 77.77777777777779,
+            "f_pct": 22.22222222222222
+        },
+        {
+            "id": "ORI",
+            "name": "Orica Limited",
+            "cap": 6262710115.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "OSH",
+            "name": "Oil Search Limited",
+            "cap": 5485525752.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 6.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "OZL",
+            "name": "OZ Minerals Limited",
+            "cap": 4549016178.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "PAR",
+            "name": "Paradigm Biopharmaceuticals Limited",
+            "cap": 598521516.0,
+            "index": "S&P/ASX 300",
+            "F": 0.0,
+            "M": 3.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "PBH",
+            "name": "Pointsbet Holdings Limited",
+            "cap": 1693801327.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 5.0,
+            "m_pct": 83.33333333333334,
+            "f_pct": 16.666666666666664
+        },
+        {
+            "id": "PDL",
+            "name": "Pendal Group Limited",
+            "cap": 1762501054.0,
+            "index": "S&P/ASX 200",
+            "F": 3.0,
+            "M": 4.0,
+            "m_pct": 57.14285714285714,
+            "f_pct": 42.857142857142854
+        },
+        {
+            "id": "PET",
+            "name": "Phoslock Environmental Technologies Limited",
+            "cap": 153125124.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 4.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "PGH",
+            "name": "Pact Group Holdings Ltd",
+            "cap": 784305396.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "PLS",
+            "name": "Pilbara Minerals Limited",
+            "cap": 723811389.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 4.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "PME",
+            "name": "Pro Medicus Limited",
+            "cap": 2821007308.0,
+            "index": "S&P/ASX 200",
+            "F": 0.0,
+            "M": 5.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "PMV",
+            "name": "Premier Investments Limited",
+            "cap": 3263374383.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 7.0,
+            "m_pct": 77.77777777777779,
+            "f_pct": 22.22222222222222
+        },
+        {
+            "id": "PNI",
+            "name": "Pinnacle Investment Management Group Limited",
+            "cap": 949265525.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "PNV",
+            "name": "Polynovo Limited",
+            "cap": 1461004577.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 7.0,
+            "m_pct": 77.77777777777779,
+            "f_pct": 22.22222222222222
+        },
+        {
+            "id": "PPT",
+            "name": "Perpetual Limited",
+            "cap": 1579372648.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "PRN",
+            "name": "Perenti Global Limited",
+            "cap": 803250019.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "PRU",
+            "name": "Perseus Mining Limited",
+            "cap": 1673017510.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 5.0,
+            "m_pct": 83.33333333333334,
+            "f_pct": 16.666666666666664
+        },
+        {
+            "id": "PTM",
+            "name": "Platinum Asset Management Limited",
+            "cap": 1801104223.0,
+            "index": "S&P/ASX 200",
+            "F": 3.0,
+            "M": 6.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "QAN",
+            "name": "Qantas Airways Limited",
+            "cap": 7638481026.0,
+            "index": "S&P/ASX 100",
+            "F": 4.0,
+            "M": 6.0,
+            "m_pct": 60.0,
+            "f_pct": 40.0
+        },
+        {
+            "id": "QBE",
+            "name": "QBE Insurance Group Limited",
+            "cap": 12664138807.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "QUB",
+            "name": "Qube Holdings Limited",
+            "cap": 4731347565.0,
+            "index": "S&P/ASX 100",
+            "F": 1.0,
+            "M": 8.0,
+            "m_pct": 88.88888888888889,
+            "f_pct": 11.11111111111111
+        },
+        {
+            "id": "RDC",
+            "name": "Redcape Hotel Group",
+            "cap": 496975675.0,
+            "index": "S&P/ASX 300",
+            "F": 0.0,
+            "M": 5.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "REA",
+            "name": "REA Group Ltd",
+            "cap": 14484665449.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "RED",
+            "name": "Red 5 Limited",
+            "cap": 591174300.0,
+            "index": "S&P/ASX 300",
+            "F": 0.0,
+            "M": 5.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "REH",
+            "name": "Reece Limited",
+            "cap": 8365495143.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "RFF",
+            "name": "Rural Funds Group",
+            "cap": 781605855.0,
+            "index": "S&P/ASX 300",
+            "F": 0.0,
+            "M": 4.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "RHC",
+            "name": "Ramsay Health Care Limited",
+            "cap": 15124503066.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "RIO",
+            "name": "Rio Tinto Limited",
+            "cap": 35013113304.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 8.0,
+            "m_pct": 72.72727272727273,
+            "f_pct": 27.27272727272727
+        },
+        {
+            "id": "RMD",
+            "name": "ResMed Inc.",
+            "cap": 8484771922.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "RMS",
+            "name": "Ramelius Resources Limited",
+            "cap": 1674260941.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 4.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "RRL",
+            "name": "Regis Resources Limited",
+            "cap": 2555991945.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "RSG",
+            "name": "Resolute Mining Limited",
+            "cap": 1026620216.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "RWC",
+            "name": "Reliance Worldwide Corporation Limited",
+            "cap": 3018162002.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "S32",
+            "name": "South32 Limited",
+            "cap": 9886386481.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "SAR",
+            "name": "Saracen Mineral Holdings Limited",
+            "cap": 5726437380.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "SBM",
+            "name": "St Barbara Limited",
+            "cap": 2101964399.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "SCG",
+            "name": "Scentre Group",
+            "cap": 11418832345.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "SCP",
+            "name": "Shopping Centres Australasia Property Group",
+            "cap": 2303864109.0,
+            "index": "S&P/ASX 200",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "SDF",
+            "name": "Steadfast Group Limited",
+            "cap": 2779123315.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "SEK",
+            "name": "SEEK Limited",
+            "cap": 7516012745.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "SFR",
+            "name": "Sandfire Resources Limited",
+            "cap": 727265438.0,
+            "index": "S&P/ASX 200",
+            "F": 0.0,
+            "M": 5.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "SGM",
+            "name": "Sims Limited",
+            "cap": 1526352612.0,
+            "index": "S&P/ASX 200",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "SGP",
+            "name": "Stockland",
+            "cap": 9015029677.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "SGR",
+            "name": "The Star Entertainment Group Limited",
+            "cap": 2913163482.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "SHL",
+            "name": "Sonic Healthcare Limited",
+            "cap": 15831481210.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 6.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "SHV",
+            "name": "Select Harvests Limited",
+            "cap": 538268162.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "SIG",
+            "name": "Sigma Healthcare Limited",
+            "cap": 625020285.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "SIQ",
+            "name": "Smartgroup Corporation Ltd",
+            "cap": 759734375.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "SKC",
+            "name": "SkyCity Entertainment Group Limited",
+            "cap": 2090564324.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 3.0,
+            "m_pct": 60.0,
+            "f_pct": 40.0
+        },
+        {
+            "id": "SKI",
+            "name": "Spark Infrastructure Group",
+            "cap": 3562991411.0,
+            "index": "S&P/ASX 100",
+            "F": 1.0,
+            "M": 5.0,
+            "m_pct": 83.33333333333334,
+            "f_pct": 16.666666666666664
+        },
+        {
+            "id": "SLC",
+            "name": "Superloop Limited",
+            "cap": 345743763.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 5.0,
+            "m_pct": 83.33333333333334,
+            "f_pct": 16.666666666666664
+        },
+        {
+            "id": "SLK",
+            "name": "Sealink Travel Group Limited",
+            "cap": 1212114716.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "SLR",
+            "name": "Silver Lake Resources Limited",
+            "cap": 2035592838.0,
+            "index": "S&P/ASX 200",
+            "F": 0.0,
+            "M": 4.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "SM1",
+            "name": "Synlait Milk Limited",
+            "cap": 928809783.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "SOL",
+            "name": "Washington H. Soul Pattinson and Co. Limited",
+            "cap": 5628183973.0,
+            "index": "S&P/ASX 100",
+            "F": 1.0,
+            "M": 7.0,
+            "m_pct": 87.5,
+            "f_pct": 12.5
+        },
+        {
+            "id": "SPK",
+            "name": "Spark New Zealand Limited",
+            "cap": 7921497302.0,
+            "index": "S&P/ASX 200",
+            "F": 4.0,
+            "M": 4.0,
+            "m_pct": 50.0,
+            "f_pct": 50.0
+        },
+        {
+            "id": "SPL",
+            "name": "Starpharma Holdings Limited",
+            "cap": 559126452.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "SSM",
+            "name": "Service Stream Limited",
+            "cap": 837837794.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 5.0,
+            "m_pct": 83.33333333333334,
+            "f_pct": 16.666666666666664
+        },
+        {
+            "id": "SSR",
+            "name": "SSR Mining Inc",
+            "cap": 425508720.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "STO",
+            "name": "Santos Limited",
+            "cap": 10165362280.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 6.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "SUL",
+            "name": "Super Retail Group Limited",
+            "cap": 2375489566.0,
+            "index": "S&P/ASX 200",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "SUN",
+            "name": "Suncorp Group Limited",
+            "cap": 10813045356.0,
+            "index": "S&P/ASX 100",
+            "F": 4.0,
+            "M": 6.0,
+            "m_pct": 60.0,
+            "f_pct": 40.0
+        },
+        {
+            "id": "SVW",
+            "name": "Seven Group Holdings Limited",
+            "cap": 6081289195.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 7.0,
+            "m_pct": 77.77777777777779,
+            "f_pct": 22.22222222222222
+        },
+        {
+            "id": "SXL",
+            "name": "Southern Cross Media Group Limited",
+            "cap": 396315852.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "SXY",
+            "name": "Senex Energy Limited",
+            "cap": 467194494.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 6.0,
+            "m_pct": 85.71428571428571,
+            "f_pct": 14.285714285714285
+        },
+        {
+            "id": "SYD",
+            "name": "Sydney Airport",
+            "cap": 15814383482.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "TAH",
+            "name": "Tabcorp Holdings Limited",
+            "cap": 7405245575.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "TCL",
+            "name": "Transurban Group",
+            "cap": 38608118833.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 7.0,
+            "m_pct": 70.0,
+            "f_pct": 30.0
+        },
+        {
+            "id": "TGR",
+            "name": "Tassal Group Limited",
+            "cap": 726244395.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "TLS",
+            "name": "Telstra Corporation Limited",
+            "cap": 33063368036.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 7.0,
+            "m_pct": 70.0,
+            "f_pct": 30.0
+        },
+        {
+            "id": "TNE",
+            "name": "Technology One Limited",
+            "cap": 2535205936.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 7.0,
+            "m_pct": 77.77777777777779,
+            "f_pct": 22.22222222222222
+        },
+        {
+            "id": "TPG",
+            "name": "TPG Telecom Limited",
+            "cap": 13573194183.0,
+            "index": "S&P/ASX 100",
+            "F": 0.0,
+            "M": 8.0,
+            "m_pct": 100.0,
+            "f_pct": 0.0
+        },
+        {
+            "id": "TPW",
+            "name": "Temple & Webster Group Ltd",
+            "cap": 1485184602.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 3.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "TWE",
+            "name": "Treasury Wine Estates Limited",
+            "cap": 6446190137.0,
+            "index": "S&P/ASX 100",
+            "F": 4.0,
+            "M": 5.0,
+            "m_pct": 55.55555555555556,
+            "f_pct": 44.44444444444444
+        },
+        {
+            "id": "TYR",
+            "name": "Tyro Payments Limited",
+            "cap": 1778741764.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "UMG",
+            "name": "United Malt Group Limited",
+            "cap": 1232618036.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "URW",
+            "name": "Unibail-Rodamco-Westfield",
+            "cap": 560109871.0,
+            "index": "S&P/ASX 200",
+            "F": 5.0,
+            "M": 6.0,
+            "m_pct": 54.54545454545454,
+            "f_pct": 45.45454545454545
+        },
+        {
+            "id": "UWL",
+            "name": "Uniti Group Limited",
+            "cap": 713198969.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 4.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        },
+        {
+            "id": "VCX",
+            "name": "Vicinity Centres",
+            "cap": 6259378617.0,
+            "index": "S&P/ASX 100",
+            "F": 2.0,
+            "M": 6.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "VEA",
+            "name": "Viva Energy Group Limited",
+            "cap": 3095017891.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "VOC",
+            "name": "Vocus Group Limited",
+            "cap": 2211524157.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 8.0,
+            "m_pct": 88.88888888888889,
+            "f_pct": 11.11111111111111
+        },
+        {
+            "id": "VRL",
+            "name": "Village Roadshow Limited",
+            "cap": 423802256.0,
+            "index": "S&P/ASX 300",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "VRT",
+            "name": "Virtus Health Limited",
+            "cap": 310305160.0,
+            "index": "S&P/ASX 300",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "VUK",
+            "name": "Virgin Money UK PLC",
+            "cap": 1236075587.0,
+            "index": "S&P/ASX 200",
+            "F": 3.0,
+            "M": 7.0,
+            "m_pct": 70.0,
+            "f_pct": 30.0
+        },
+        {
+            "id": "WAF",
+            "name": "West African Resources Limited",
+            "cap": 937432126.0,
+            "index": "S&P/ASX 300",
+            "F": 1.0,
+            "M": 6.0,
+            "m_pct": 85.71428571428571,
+            "f_pct": 14.285714285714285
+        },
+        {
+            "id": "WBC",
+            "name": "Westpac Banking Corporation",
+            "cap": 60820773210.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "WEB",
+            "name": "Webjet Limited",
+            "cap": 1318719814.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 4.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "WES",
+            "name": "Wesfarmers Limited",
+            "cap": 50365183549.0,
+            "index": "S&P/ASX 100",
+            "F": 4.0,
+            "M": 5.0,
+            "m_pct": 55.55555555555556,
+            "f_pct": 44.44444444444444
+        },
+        {
+            "id": "WGX",
+            "name": "Westgold Resources Limited",
+            "cap": 991743437.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 3.0,
+            "m_pct": 75.0,
+            "f_pct": 25.0
+        },
+        {
+            "id": "WHC",
+            "name": "Whitehaven Coal Limited",
+            "cap": 1072217949.0,
+            "index": "S&P/ASX 200",
+            "F": 2.0,
+            "M": 5.0,
+            "m_pct": 71.42857142857143,
+            "f_pct": 28.57142857142857
+        },
+        {
+            "id": "WOR",
+            "name": "Worley Limited",
+            "cap": 4970498546.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 8.0,
+            "m_pct": 72.72727272727273,
+            "f_pct": 27.27272727272727
+        },
+        {
+            "id": "WOW",
+            "name": "Woolworths Group Limited",
+            "cap": 46014545276.0,
+            "index": "S&P/ASX 100",
+            "F": 5.0,
+            "M": 4.0,
+            "m_pct": 44.44444444444444,
+            "f_pct": 55.55555555555556
+        },
+        {
+            "id": "WPL",
+            "name": "Woodside Petroleum Limited",
+            "cap": 16884710455.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 7.0,
+            "m_pct": 70.0,
+            "f_pct": 30.0
+        },
+        {
+            "id": "WPR",
+            "name": "Waypoint REIT Limited",
+            "cap": 2127409828.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 2.0,
+            "m_pct": 66.66666666666666,
+            "f_pct": 33.33333333333333
+        },
+        {
+            "id": "WSA",
+            "name": "Western Areas Limited",
+            "cap": 563250952.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 5.0,
+            "m_pct": 83.33333333333334,
+            "f_pct": 16.666666666666664
+        },
+        {
+            "id": "WTC",
+            "name": "Wisetech Global Limited",
+            "cap": 8349513428.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 4.0,
+            "m_pct": 57.14285714285714,
+            "f_pct": 42.857142857142854
+        },
+        {
+            "id": "XRO",
+            "name": "Xero Limited",
+            "cap": 14390460818.0,
+            "index": "S&P/ASX 100",
+            "F": 3.0,
+            "M": 5.0,
+            "m_pct": 62.5,
+            "f_pct": 37.5
+        },
+        {
+            "id": "Z1P",
+            "name": "Zip Co Limited",
+            "cap": 3141636762.0,
+            "index": "S&P/ASX 200",
+            "F": 1.0,
+            "M": 4.0,
+            "m_pct": 80.0,
+            "f_pct": 20.0
+        }
+    ],
+    "links": [
+        {
+            "source": "A2M",
+            "sourceName": "The a2 Milk Company Limited",
+            "target": "AIA",
+            "targetName": "Auckland International Airport Limited",
+            "count": 1
+        },
+        {
+            "source": "A2M",
+            "sourceName": "The a2 Milk Company Limited",
+            "target": "SPK",
+            "targetName": "Spark New Zealand Limited",
+            "count": 1
+        },
+        {
+            "source": "A2M",
+            "sourceName": "The a2 Milk Company Limited",
+            "target": "TWE",
+            "targetName": "Treasury Wine Estates Limited",
+            "count": 1
+        },
+        {
+            "source": "AAC",
+            "sourceName": "Australian Agricultural Company Limited",
+            "target": "GNC",
+            "targetName": "Graincorp Limited",
+            "count": 1
+        },
+        {
+            "source": "AAC",
+            "sourceName": "Australian Agricultural Company Limited",
+            "target": "NUF",
+            "targetName": "Nufarm Limited",
+            "count": 1
+        },
+        {
+            "source": "ABC",
+            "sourceName": "ADBRI Limited",
+            "target": "AWC",
+            "targetName": "Alumina Limited",
+            "count": 1
+        },
+        {
+            "source": "ABC",
+            "sourceName": "ADBRI Limited",
+            "target": "CWY",
+            "targetName": "Cleanaway Waste Management Limited",
+            "count": 1
+        },
+        {
+            "source": "ABC",
+            "sourceName": "ADBRI Limited",
+            "target": "STO",
+            "targetName": "Santos Limited",
+            "count": 1
+        },
+        {
+            "source": "ABP",
+            "sourceName": "Abacus Property Group",
+            "target": "IPH",
+            "targetName": "IPH Limited",
+            "count": 1
+        },
+        {
+            "source": "ABP",
+            "sourceName": "Abacus Property Group",
+            "target": "WOW",
+            "targetName": "Woolworths Group Limited",
+            "count": 1
+        },
+        {
+            "source": "ADI",
+            "sourceName": "APN Industria REIT",
+            "target": "CQE",
+            "targetName": "Charter Hall Social Infrastructure REIT",
+            "count": 1
+        },
+        {
+            "source": "ADI",
+            "sourceName": "APN Industria REIT",
+            "target": "NSR",
+            "targetName": "National Storage REIT",
+            "count": 1
+        },
+        {
+            "source": "ADI",
+            "sourceName": "APN Industria REIT",
+            "target": "SGM",
+            "targetName": "Sims Limited",
+            "count": 1
+        },
+        {
+            "source": "AFG",
+            "sourceName": "Australian Finance Group Ltd",
+            "target": "CWP",
+            "targetName": "Cedar Woods Properties Limited",
+            "count": 1
+        },
+        {
+            "source": "AGL",
+            "sourceName": "AGL Energy Limited",
+            "target": "BEN",
+            "targetName": "Bendigo and Adelaide Bank Limited",
+            "count": 1
+        },
+        {
+            "source": "AGL",
+            "sourceName": "AGL Energy Limited",
+            "target": "QAN",
+            "targetName": "Qantas Airways Limited",
+            "count": 1
+        },
+        {
+            "source": "AGL",
+            "sourceName": "AGL Energy Limited",
+            "target": "WES",
+            "targetName": "Wesfarmers Limited",
+            "count": 1
+        },
+        {
+            "source": "AHY",
+            "sourceName": "Asaleo Care Limited",
+            "target": "CGF",
+            "targetName": "Challenger Limited",
+            "count": 1
+        },
+        {
+            "source": "AHY",
+            "sourceName": "Asaleo Care Limited",
+            "target": "TAH",
+            "targetName": "Tabcorp Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "AIA",
+            "sourceName": "Auckland International Airport Limited",
+            "target": "CNU",
+            "targetName": "Chorus Limited",
+            "count": 1
+        },
+        {
+            "source": "AIA",
+            "sourceName": "Auckland International Airport Limited",
+            "target": "SPK",
+            "targetName": "Spark New Zealand Limited",
+            "count": 1
+        },
+        {
+            "source": "ALD",
+            "sourceName": "Ampol Limited",
+            "target": "ASX",
+            "targetName": "ASX Limited",
+            "count": 1
+        },
+        {
+            "source": "ALD",
+            "sourceName": "Ampol Limited",
+            "target": "CCL",
+            "targetName": "Coca-Cola Amatil Limited",
+            "count": 1
+        },
+        {
+            "source": "ALD",
+            "sourceName": "Ampol Limited",
+            "target": "CGF",
+            "targetName": "Challenger Limited",
+            "count": 1
+        },
+        {
+            "source": "ALD",
+            "sourceName": "Ampol Limited",
+            "target": "CSR",
+            "targetName": "CSR Limited",
+            "count": 2
+        },
+        {
+            "source": "ALD",
+            "sourceName": "Ampol Limited",
+            "target": "CWY",
+            "targetName": "Cleanaway Waste Management Limited",
+            "count": 1
+        },
+        {
+            "source": "ALD",
+            "sourceName": "Ampol Limited",
+            "target": "GMG",
+            "targetName": "Goodman Group",
+            "count": 1
+        },
+        {
+            "source": "ALD",
+            "sourceName": "Ampol Limited",
+            "target": "ING",
+            "targetName": "Inghams Group Limited",
+            "count": 1
+        },
+        {
+            "source": "ALD",
+            "sourceName": "Ampol Limited",
+            "target": "QAN",
+            "targetName": "Qantas Airways Limited",
+            "count": 1
+        },
+        {
+            "source": "ALD",
+            "sourceName": "Ampol Limited",
+            "target": "SCG",
+            "targetName": "Scentre Group",
+            "count": 1
+        },
+        {
+            "source": "ALD",
+            "sourceName": "Ampol Limited",
+            "target": "SGP",
+            "targetName": "Stockland",
+            "count": 1
+        },
+        {
+            "source": "ALD",
+            "sourceName": "Ampol Limited",
+            "target": "TAH",
+            "targetName": "Tabcorp Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "ALG",
+            "sourceName": "Ardent Leisure Group",
+            "target": "EHE",
+            "targetName": "Estia Health Limited",
+            "count": 1
+        },
+        {
+            "source": "ALL",
+            "sourceName": "Aristocrat Leisure Limited",
+            "target": "BSL",
+            "targetName": "BlueScope Steel Limited",
+            "count": 1
+        },
+        {
+            "source": "ALL",
+            "sourceName": "Aristocrat Leisure Limited",
+            "target": "CGC",
+            "targetName": "Costa Group Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "ALL",
+            "sourceName": "Aristocrat Leisure Limited",
+            "target": "CWY",
+            "targetName": "Cleanaway Waste Management Limited",
+            "count": 1
+        },
+        {
+            "source": "ALL",
+            "sourceName": "Aristocrat Leisure Limited",
+            "target": "HLS",
+            "targetName": "Healius Limited",
+            "count": 1
+        },
+        {
+            "source": "ALL",
+            "sourceName": "Aristocrat Leisure Limited",
+            "target": "LYC",
+            "targetName": "Lynas Corporation Limited",
+            "count": 2
+        },
+        {
+            "source": "ALL",
+            "sourceName": "Aristocrat Leisure Limited",
+            "target": "REA",
+            "targetName": "REA Group Ltd",
+            "count": 1
+        },
+        {
+            "source": "ALL",
+            "sourceName": "Aristocrat Leisure Limited",
+            "target": "TCL",
+            "targetName": "Transurban Group",
+            "count": 1
+        },
+        {
+            "source": "ALL",
+            "sourceName": "Aristocrat Leisure Limited",
+            "target": "WTC",
+            "targetName": "Wisetech Global Limited",
+            "count": 1
+        },
+        {
+            "source": "ALQ",
+            "sourceName": "ALS Limited",
+            "target": "ANN",
+            "targetName": "Ansell Limited",
+            "count": 1
+        },
+        {
+            "source": "ALQ",
+            "sourceName": "ALS Limited",
+            "target": "DXS",
+            "targetName": "Dexus",
+            "count": 1
+        },
+        {
+            "source": "ALQ",
+            "sourceName": "ALS Limited",
+            "target": "GWA",
+            "targetName": "GWA Group Limited",
+            "count": 1
+        },
+        {
+            "source": "ALQ",
+            "sourceName": "ALS Limited",
+            "target": "KAR",
+            "targetName": "Karoon Energy Ltd",
+            "count": 1
+        },
+        {
+            "source": "ALQ",
+            "sourceName": "ALS Limited",
+            "target": "LYC",
+            "targetName": "Lynas Corporation Limited",
+            "count": 1
+        },
+        {
+            "source": "ALQ",
+            "sourceName": "ALS Limited",
+            "target": "MGR",
+            "targetName": "Mirvac Group",
+            "count": 1
+        },
+        {
+            "source": "ALQ",
+            "sourceName": "ALS Limited",
+            "target": "MTS",
+            "targetName": "Metcash Limited",
+            "count": 1
+        },
+        {
+            "source": "ALQ",
+            "sourceName": "ALS Limited",
+            "target": "OFX",
+            "targetName": "OFX Group Limited",
+            "count": 1
+        },
+        {
+            "source": "ALQ",
+            "sourceName": "ALS Limited",
+            "target": "OZL",
+            "targetName": "OZ Minerals Limited",
+            "count": 2
+        },
+        {
+            "source": "ALU",
+            "sourceName": "Altium Limited",
+            "target": "BGA",
+            "targetName": "Bega Cheese Limited",
+            "count": 1
+        },
+        {
+            "source": "ALU",
+            "sourceName": "Altium Limited",
+            "target": "IDX",
+            "targetName": "Integral Diagnostics Limited",
+            "count": 1
+        },
+        {
+            "source": "ALX",
+            "sourceName": "Atlas Arteria",
+            "target": "APA",
+            "targetName": "APA Group",
+            "count": 1
+        },
+        {
+            "source": "ALX",
+            "sourceName": "Atlas Arteria",
+            "target": "AST",
+            "targetName": "AusNet Services",
+            "count": 1
+        },
+        {
+            "source": "ALX",
+            "sourceName": "Atlas Arteria",
+            "target": "BXB",
+            "targetName": "Brambles Limited",
+            "count": 1
+        },
+        {
+            "source": "ALX",
+            "sourceName": "Atlas Arteria",
+            "target": "SXY",
+            "targetName": "Senex Energy Limited",
+            "count": 1
+        },
+        {
+            "source": "ALX",
+            "sourceName": "Atlas Arteria",
+            "target": "TLS",
+            "targetName": "Telstra Corporation Limited",
+            "count": 1
+        },
+        {
+            "source": "AMC",
+            "sourceName": "Amcor Plc",
+            "target": "ANZ",
+            "targetName": "Australia & New Zealand Banking Group Ltd",
+            "count": 1
+        },
+        {
+            "source": "AMC",
+            "sourceName": "Amcor Plc",
+            "target": "ORA",
+            "targetName": "Orora Limited",
+            "count": 1
+        },
+        {
+            "source": "AMI",
+            "sourceName": "Aurelia Metals Ltd",
+            "target": "EVN",
+            "targetName": "Evolution Mining Limited",
+            "count": 1
+        },
+        {
+            "source": "AMI",
+            "sourceName": "Aurelia Metals Ltd",
+            "target": "ILU",
+            "targetName": "Iluka Resources Limited",
+            "count": 1
+        },
+        {
+            "source": "AMP",
+            "sourceName": "AMP Limited",
+            "target": "SIG",
+            "targetName": "Sigma Healthcare Limited",
+            "count": 1
+        },
+        {
+            "source": "ANN",
+            "sourceName": "Ansell Limited",
+            "target": "AWC",
+            "targetName": "Alumina Limited",
+            "count": 2
+        },
+        {
+            "source": "ANN",
+            "sourceName": "Ansell Limited",
+            "target": "BSL",
+            "targetName": "BlueScope Steel Limited",
+            "count": 1
+        },
+        {
+            "source": "ANZ",
+            "sourceName": "Australia & New Zealand Banking Group Ltd",
+            "target": "CCL",
+            "targetName": "Coca-Cola Amatil Limited",
+            "count": 2
+        },
+        {
+            "source": "ANZ",
+            "sourceName": "Australia & New Zealand Banking Group Ltd",
+            "target": "CWN",
+            "targetName": "Crown Resorts Limited",
+            "count": 1
+        },
+        {
+            "source": "ANZ",
+            "sourceName": "Australia & New Zealand Banking Group Ltd",
+            "target": "SYD",
+            "targetName": "Sydney Airport",
+            "count": 1
+        },
+        {
+            "source": "ANZ",
+            "sourceName": "Australia & New Zealand Banking Group Ltd",
+            "target": "TAH",
+            "targetName": "Tabcorp Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "APA",
+            "sourceName": "APA Group",
+            "target": "AZJ",
+            "targetName": "Aurizon Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "APA",
+            "sourceName": "APA Group",
+            "target": "NHF",
+            "targetName": "NIB Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "APA",
+            "sourceName": "APA Group",
+            "target": "NST",
+            "targetName": "Northern Star Resources Ltd",
+            "count": 1
+        },
+        {
+            "source": "APA",
+            "sourceName": "APA Group",
+            "target": "OZL",
+            "targetName": "OZ Minerals Limited",
+            "count": 1
+        },
+        {
+            "source": "APA",
+            "sourceName": "APA Group",
+            "target": "SCP",
+            "targetName": "Shopping Centres Australasia Property Group",
+            "count": 1
+        },
+        {
+            "source": "APA",
+            "sourceName": "APA Group",
+            "target": "SXY",
+            "targetName": "Senex Energy Limited",
+            "count": 1
+        },
+        {
+            "source": "APA",
+            "sourceName": "APA Group",
+            "target": "TGR",
+            "targetName": "Tassal Group Limited",
+            "count": 1
+        },
+        {
+            "source": "APE",
+            "sourceName": "Eagers Automotive Limited",
+            "target": "SXY",
+            "targetName": "Senex Energy Limited",
+            "count": 1
+        },
+        {
+            "source": "API",
+            "sourceName": "Australian Pharmaceutical Industries Limited",
+            "target": "BAP",
+            "targetName": "Bapcor Limited",
+            "count": 1
+        },
+        {
+            "source": "API",
+            "sourceName": "Australian Pharmaceutical Industries Limited",
+            "target": "BKW",
+            "targetName": "Brickworks Limited",
+            "count": 1
+        },
+        {
+            "source": "API",
+            "sourceName": "Australian Pharmaceutical Industries Limited",
+            "target": "GUD",
+            "targetName": "GUD Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "API",
+            "sourceName": "Australian Pharmaceutical Industries Limited",
+            "target": "HVN",
+            "targetName": "Harvey Norman Holdings Ltd",
+            "count": 1
+        },
+        {
+            "source": "API",
+            "sourceName": "Australian Pharmaceutical Industries Limited",
+            "target": "NHC",
+            "targetName": "New Hope Corporation Limited",
+            "count": 1
+        },
+        {
+            "source": "API",
+            "sourceName": "Australian Pharmaceutical Industries Limited",
+            "target": "NHF",
+            "targetName": "NIB Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "API",
+            "sourceName": "Australian Pharmaceutical Industries Limited",
+            "target": "SOL",
+            "targetName": "Washington H. Soul Pattinson and Co. Limited",
+            "count": 1
+        },
+        {
+            "source": "API",
+            "sourceName": "Australian Pharmaceutical Industries Limited",
+            "target": "TPG",
+            "targetName": "TPG Telecom Limited",
+            "count": 1
+        },
+        {
+            "source": "APT",
+            "sourceName": "Afterpay Limited",
+            "target": "CAR",
+            "targetName": "Carsales.com Limited",
+            "count": 1
+        },
+        {
+            "source": "APT",
+            "sourceName": "Afterpay Limited",
+            "target": "TLS",
+            "targetName": "Telstra Corporation Limited",
+            "count": 1
+        },
+        {
+            "source": "APX",
+            "sourceName": "Appen Limited",
+            "target": "AUB",
+            "targetName": "AUB Group Limited",
+            "count": 1
+        },
+        {
+            "source": "APX",
+            "sourceName": "Appen Limited",
+            "target": "IPH",
+            "targetName": "IPH Limited",
+            "count": 1
+        },
+        {
+            "source": "ARB",
+            "sourceName": "ARB Corporation Limited",
+            "target": "MFG",
+            "targetName": "Magellan Financial Group Limited",
+            "count": 2
+        },
+        {
+            "source": "ARB",
+            "sourceName": "ARB Corporation Limited",
+            "target": "OBL",
+            "targetName": "Omni Bridgeway Limited",
+            "count": 1
+        },
+        {
+            "source": "ARF",
+            "sourceName": "Arena REIT",
+            "target": "CHC",
+            "targetName": "Charter Hall Group",
+            "count": 1
+        },
+        {
+            "source": "AST",
+            "sourceName": "AusNet Services",
+            "target": "BXB",
+            "targetName": "Brambles Limited",
+            "count": 1
+        },
+        {
+            "source": "AST",
+            "sourceName": "AusNet Services",
+            "target": "SXY",
+            "targetName": "Senex Energy Limited",
+            "count": 1
+        },
+        {
+            "source": "AST",
+            "sourceName": "AusNet Services",
+            "target": "TLS",
+            "targetName": "Telstra Corporation Limited",
+            "count": 1
+        },
+        {
+            "source": "ASX",
+            "sourceName": "ASX Limited",
+            "target": "COH",
+            "targetName": "Cochlear Limited",
+            "count": 2
+        },
+        {
+            "source": "ASX",
+            "sourceName": "ASX Limited",
+            "target": "MGR",
+            "targetName": "Mirvac Group",
+            "count": 1
+        },
+        {
+            "source": "ASX",
+            "sourceName": "ASX Limited",
+            "target": "MQG",
+            "targetName": "Macquarie Group Limited",
+            "count": 1
+        },
+        {
+            "source": "ASX",
+            "sourceName": "ASX Limited",
+            "target": "SGM",
+            "targetName": "Sims Limited",
+            "count": 1
+        },
+        {
+            "source": "ASX",
+            "sourceName": "ASX Limited",
+            "target": "SGP",
+            "targetName": "Stockland",
+            "count": 1
+        },
+        {
+            "source": "ASX",
+            "sourceName": "ASX Limited",
+            "target": "STO",
+            "targetName": "Santos Limited",
+            "count": 1
+        },
+        {
+            "source": "ASX",
+            "sourceName": "ASX Limited",
+            "target": "WBC",
+            "targetName": "Westpac Banking Corporation",
+            "count": 2
+        },
+        {
+            "source": "AUB",
+            "sourceName": "AUB Group Limited",
+            "target": "CHC",
+            "targetName": "Charter Hall Group",
+            "count": 1
+        },
+        {
+            "source": "AUB",
+            "sourceName": "AUB Group Limited",
+            "target": "IPH",
+            "targetName": "IPH Limited",
+            "count": 1
+        },
+        {
+            "source": "AVH",
+            "sourceName": "AVITA Therapeutics, Inc",
+            "target": "SHL",
+            "targetName": "Sonic Healthcare Limited",
+            "count": 2
+        },
+        {
+            "source": "AVN",
+            "sourceName": "Aventus Retail Property Fund",
+            "target": "BKW",
+            "targetName": "Brickworks Limited",
+            "count": 1
+        },
+        {
+            "source": "AVN",
+            "sourceName": "Aventus Retail Property Fund",
+            "target": "BOQ",
+            "targetName": "Bank of Queensland Limited",
+            "count": 1
+        },
+        {
+            "source": "AVN",
+            "sourceName": "Aventus Retail Property Fund",
+            "target": "IVC",
+            "targetName": "InvoCare Limited",
+            "count": 1
+        },
+        {
+            "source": "AVN",
+            "sourceName": "Aventus Retail Property Fund",
+            "target": "SKC",
+            "targetName": "SkyCity Entertainment Group Limited",
+            "count": 1
+        },
+        {
+            "source": "AWC",
+            "sourceName": "Alumina Limited",
+            "target": "BSL",
+            "targetName": "BlueScope Steel Limited",
+            "count": 1
+        },
+        {
+            "source": "AWC",
+            "sourceName": "Alumina Limited",
+            "target": "CWY",
+            "targetName": "Cleanaway Waste Management Limited",
+            "count": 1
+        },
+        {
+            "source": "AWC",
+            "sourceName": "Alumina Limited",
+            "target": "SGM",
+            "targetName": "Sims Limited",
+            "count": 1
+        },
+        {
+            "source": "AX1",
+            "sourceName": "Accent Group Limited",
+            "target": "BBN",
+            "targetName": "Baby Bunting Group Limited",
+            "count": 1
+        },
+        {
+            "source": "AX1",
+            "sourceName": "Accent Group Limited",
+            "target": "GWA",
+            "targetName": "GWA Group Limited",
+            "count": 1
+        },
+        {
+            "source": "AX1",
+            "sourceName": "Accent Group Limited",
+            "target": "JBH",
+            "targetName": "JB Hi-Fi Limited",
+            "count": 1
+        },
+        {
+            "source": "AX1",
+            "sourceName": "Accent Group Limited",
+            "target": "NCK",
+            "targetName": "Nick Scali Limited",
+            "count": 1
+        },
+        {
+            "source": "AX1",
+            "sourceName": "Accent Group Limited",
+            "target": "NHF",
+            "targetName": "NIB Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "AZJ",
+            "sourceName": "Aurizon Holdings Limited",
+            "target": "ILU",
+            "targetName": "Iluka Resources Limited",
+            "count": 1
+        },
+        {
+            "source": "AZJ",
+            "sourceName": "Aurizon Holdings Limited",
+            "target": "MMS",
+            "targetName": "McMillan Shakespeare Limited",
+            "count": 1
+        },
+        {
+            "source": "AZJ",
+            "sourceName": "Aurizon Holdings Limited",
+            "target": "NEC",
+            "targetName": "Nine Entertainment Co. Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "AZJ",
+            "sourceName": "Aurizon Holdings Limited",
+            "target": "ORA",
+            "targetName": "Orora Limited",
+            "count": 1
+        },
+        {
+            "source": "AZJ",
+            "sourceName": "Aurizon Holdings Limited",
+            "target": "REH",
+            "targetName": "Reece Limited",
+            "count": 1
+        },
+        {
+            "source": "AZJ",
+            "sourceName": "Aurizon Holdings Limited",
+            "target": "VEA",
+            "targetName": "Viva Energy Group Limited",
+            "count": 1
+        },
+        {
+            "source": "AZJ",
+            "sourceName": "Aurizon Holdings Limited",
+            "target": "WPL",
+            "targetName": "Woodside Petroleum Limited",
+            "count": 1
+        },
+        {
+            "source": "BAP",
+            "sourceName": "Bapcor Limited",
+            "target": "WTC",
+            "targetName": "Wisetech Global Limited",
+            "count": 1
+        },
+        {
+            "source": "BBN",
+            "sourceName": "Baby Bunting Group Limited",
+            "target": "EML",
+            "targetName": "EML Payments Limited",
+            "count": 1
+        },
+        {
+            "source": "BBN",
+            "sourceName": "Baby Bunting Group Limited",
+            "target": "JBH",
+            "targetName": "JB Hi-Fi Limited",
+            "count": 1
+        },
+        {
+            "source": "BEN",
+            "sourceName": "Bendigo and Adelaide Bank Limited",
+            "target": "GEM",
+            "targetName": "G8 Education Limited",
+            "count": 1
+        },
+        {
+            "source": "BEN",
+            "sourceName": "Bendigo and Adelaide Bank Limited",
+            "target": "GMA",
+            "targetName": "Genworth Mortgage Insurance Australia Limited",
+            "count": 1
+        },
+        {
+            "source": "BEN",
+            "sourceName": "Bendigo and Adelaide Bank Limited",
+            "target": "HLS",
+            "targetName": "Healius Limited",
+            "count": 1
+        },
+        {
+            "source": "BEN",
+            "sourceName": "Bendigo and Adelaide Bank Limited",
+            "target": "INA",
+            "targetName": "Ingenia Communities Group",
+            "count": 1
+        },
+        {
+            "source": "BEN",
+            "sourceName": "Bendigo and Adelaide Bank Limited",
+            "target": "ORE",
+            "targetName": "Orocobre Limited",
+            "count": 1
+        },
+        {
+            "source": "BEN",
+            "sourceName": "Bendigo and Adelaide Bank Limited",
+            "target": "QAN",
+            "targetName": "Qantas Airways Limited",
+            "count": 1
+        },
+        {
+            "source": "BGA",
+            "sourceName": "Bega Cheese Limited",
+            "target": "EVT",
+            "targetName": "Event Hospitality and Entertainment Ltd",
+            "count": 1
+        },
+        {
+            "source": "BGA",
+            "sourceName": "Bega Cheese Limited",
+            "target": "IDX",
+            "targetName": "Integral Diagnostics Limited",
+            "count": 1
+        },
+        {
+            "source": "BGL",
+            "sourceName": "Bellevue Gold Limited",
+            "target": "WHC",
+            "targetName": "Whitehaven Coal Limited",
+            "count": 1
+        },
+        {
+            "source": "BHP",
+            "sourceName": "BHP Group Limited",
+            "target": "TCL",
+            "targetName": "Transurban Group",
+            "count": 2
+        },
+        {
+            "source": "BIN",
+            "sourceName": "Bingo Industries Limited",
+            "target": "MQG",
+            "targetName": "Macquarie Group Limited",
+            "count": 1
+        },
+        {
+            "source": "BKL",
+            "sourceName": "Blackmores Limited",
+            "target": "CKF",
+            "targetName": "Collins Foods Limited",
+            "count": 1
+        },
+        {
+            "source": "BKL",
+            "sourceName": "Blackmores Limited",
+            "target": "CSR",
+            "targetName": "CSR Limited",
+            "count": 1
+        },
+        {
+            "source": "BKL",
+            "sourceName": "Blackmores Limited",
+            "target": "LOV",
+            "targetName": "Lovisa Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "BKW",
+            "sourceName": "Brickworks Limited",
+            "target": "IVC",
+            "targetName": "InvoCare Limited",
+            "count": 1
+        },
+        {
+            "source": "BKW",
+            "sourceName": "Brickworks Limited",
+            "target": "NHC",
+            "targetName": "New Hope Corporation Limited",
+            "count": 1
+        },
+        {
+            "source": "BKW",
+            "sourceName": "Brickworks Limited",
+            "target": "PDL",
+            "targetName": "Pendal Group Limited",
+            "count": 1
+        },
+        {
+            "source": "BKW",
+            "sourceName": "Brickworks Limited",
+            "target": "SOL",
+            "targetName": "Washington H. Soul Pattinson and Co. Limited",
+            "count": 1
+        },
+        {
+            "source": "BKW",
+            "sourceName": "Brickworks Limited",
+            "target": "SSM",
+            "targetName": "Service Stream Limited",
+            "count": 1
+        },
+        {
+            "source": "BKW",
+            "sourceName": "Brickworks Limited",
+            "target": "TPG",
+            "targetName": "TPG Telecom Limited",
+            "count": 1
+        },
+        {
+            "source": "BLD",
+            "sourceName": "Boral Limited",
+            "target": "CHC",
+            "targetName": "Charter Hall Group",
+            "count": 1
+        },
+        {
+            "source": "BLD",
+            "sourceName": "Boral Limited",
+            "target": "NAB",
+            "targetName": "National Australia Bank Limited",
+            "count": 1
+        },
+        {
+            "source": "BLD",
+            "sourceName": "Boral Limited",
+            "target": "ORI",
+            "targetName": "Orica Limited",
+            "count": 1
+        },
+        {
+            "source": "BLD",
+            "sourceName": "Boral Limited",
+            "target": "OSH",
+            "targetName": "Oil Search Limited",
+            "count": 1
+        },
+        {
+            "source": "BLD",
+            "sourceName": "Boral Limited",
+            "target": "QAN",
+            "targetName": "Qantas Airways Limited",
+            "count": 1
+        },
+        {
+            "source": "BLD",
+            "sourceName": "Boral Limited",
+            "target": "TWE",
+            "targetName": "Treasury Wine Estates Limited",
+            "count": 1
+        },
+        {
+            "source": "BOQ",
+            "sourceName": "Bank of Queensland Limited",
+            "target": "DXS",
+            "targetName": "Dexus",
+            "count": 1
+        },
+        {
+            "source": "BOQ",
+            "sourceName": "Bank of Queensland Limited",
+            "target": "EHE",
+            "targetName": "Estia Health Limited",
+            "count": 1
+        },
+        {
+            "source": "BOQ",
+            "sourceName": "Bank of Queensland Limited",
+            "target": "IAG",
+            "targetName": "Insurance Australia Group Limited",
+            "count": 1
+        },
+        {
+            "source": "BOQ",
+            "sourceName": "Bank of Queensland Limited",
+            "target": "NEC",
+            "targetName": "Nine Entertainment Co. Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "BOQ",
+            "sourceName": "Bank of Queensland Limited",
+            "target": "RHC",
+            "targetName": "Ramsay Health Care Limited",
+            "count": 1
+        },
+        {
+            "source": "BOQ",
+            "sourceName": "Bank of Queensland Limited",
+            "target": "SKC",
+            "targetName": "SkyCity Entertainment Group Limited",
+            "count": 1
+        },
+        {
+            "source": "BOQ",
+            "sourceName": "Bank of Queensland Limited",
+            "target": "SOL",
+            "targetName": "Washington H. Soul Pattinson and Co. Limited",
+            "count": 1
+        },
+        {
+            "source": "BOQ",
+            "sourceName": "Bank of Queensland Limited",
+            "target": "VCX",
+            "targetName": "Vicinity Centres",
+            "count": 1
+        },
+        {
+            "source": "BPT",
+            "sourceName": "Beach Energy Limited",
+            "target": "CVN",
+            "targetName": "Carnarvon Petroleum Limited",
+            "count": 1
+        },
+        {
+            "source": "BPT",
+            "sourceName": "Beach Energy Limited",
+            "target": "IMD",
+            "targetName": "Imdex Limited",
+            "count": 1
+        },
+        {
+            "source": "BPT",
+            "sourceName": "Beach Energy Limited",
+            "target": "PLS",
+            "targetName": "Pilbara Minerals Limited",
+            "count": 1
+        },
+        {
+            "source": "BPT",
+            "sourceName": "Beach Energy Limited",
+            "target": "PRU",
+            "targetName": "Perseus Mining Limited",
+            "count": 1
+        },
+        {
+            "source": "BPT",
+            "sourceName": "Beach Energy Limited",
+            "target": "SVW",
+            "targetName": "Seven Group Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "BRG",
+            "sourceName": "Breville Group Limited",
+            "target": "IAP",
+            "targetName": "Investec Australia Property Fund",
+            "count": 1
+        },
+        {
+            "source": "BRG",
+            "sourceName": "Breville Group Limited",
+            "target": "NWL",
+            "targetName": "Netwealth Group Limited",
+            "count": 1
+        },
+        {
+            "source": "BRG",
+            "sourceName": "Breville Group Limited",
+            "target": "PMV",
+            "targetName": "Premier Investments Limited",
+            "count": 2
+        },
+        {
+            "source": "BRG",
+            "sourceName": "Breville Group Limited",
+            "target": "SUN",
+            "targetName": "Suncorp Group Limited",
+            "count": 1
+        },
+        {
+            "source": "BSL",
+            "sourceName": "BlueScope Steel Limited",
+            "target": "CTD",
+            "targetName": "Corporate Travel Management Limited",
+            "count": 1
+        },
+        {
+            "source": "BSL",
+            "sourceName": "BlueScope Steel Limited",
+            "target": "DXS",
+            "targetName": "Dexus",
+            "count": 1
+        },
+        {
+            "source": "BSL",
+            "sourceName": "BlueScope Steel Limited",
+            "target": "FMG",
+            "targetName": "Fortescue Metals Group Ltd",
+            "count": 1
+        },
+        {
+            "source": "BSL",
+            "sourceName": "BlueScope Steel Limited",
+            "target": "LYC",
+            "targetName": "Lynas Corporation Limited",
+            "count": 1
+        },
+        {
+            "source": "BSL",
+            "sourceName": "BlueScope Steel Limited",
+            "target": "NXT",
+            "targetName": "NEXTDC Limited",
+            "count": 1
+        },
+        {
+            "source": "BSL",
+            "sourceName": "BlueScope Steel Limited",
+            "target": "REA",
+            "targetName": "REA Group Ltd",
+            "count": 1
+        },
+        {
+            "source": "BVS",
+            "sourceName": "Bravura Solutions Limited",
+            "target": "MVF",
+            "targetName": "Monash IVF Group Limited",
+            "count": 1
+        },
+        {
+            "source": "BWP",
+            "sourceName": "BWP Trust",
+            "target": "OSH",
+            "targetName": "Oil Search Limited",
+            "count": 1
+        },
+        {
+            "source": "BWX",
+            "sourceName": "BWX Limited",
+            "target": "FXL",
+            "targetName": "FlexiGroup Limited",
+            "count": 1
+        },
+        {
+            "source": "BWX",
+            "sourceName": "BWX Limited",
+            "target": "SHV",
+            "targetName": "Select Harvests Limited",
+            "count": 1
+        },
+        {
+            "source": "BXB",
+            "sourceName": "Brambles Limited",
+            "target": "GMG",
+            "targetName": "Goodman Group",
+            "count": 1
+        },
+        {
+            "source": "BXB",
+            "sourceName": "Brambles Limited",
+            "target": "ORG",
+            "targetName": "Origin Energy Limited",
+            "count": 1
+        },
+        {
+            "source": "BXB",
+            "sourceName": "Brambles Limited",
+            "target": "TLS",
+            "targetName": "Telstra Corporation Limited",
+            "count": 2
+        },
+        {
+            "source": "BXB",
+            "sourceName": "Brambles Limited",
+            "target": "WOW",
+            "targetName": "Woolworths Group Limited",
+            "count": 1
+        },
+        {
+            "source": "CAR",
+            "sourceName": "Carsales.com Limited",
+            "target": "IFM",
+            "targetName": "Infomedia Limited",
+            "count": 1
+        },
+        {
+            "source": "CAR",
+            "sourceName": "Carsales.com Limited",
+            "target": "OML",
+            "targetName": "Oohmedia Limited",
+            "count": 1
+        },
+        {
+            "source": "CAR",
+            "sourceName": "Carsales.com Limited",
+            "target": "VOC",
+            "targetName": "Vocus Group Limited",
+            "count": 1
+        },
+        {
+            "source": "CBA",
+            "sourceName": "Commonwealth Bank of Australia",
+            "target": "COL",
+            "targetName": "Coles Group Limited",
+            "count": 1
+        },
+        {
+            "source": "CBA",
+            "sourceName": "Commonwealth Bank of Australia",
+            "target": "GPT",
+            "targetName": "GPT Group",
+            "count": 1
+        },
+        {
+            "source": "CBA",
+            "sourceName": "Commonwealth Bank of Australia",
+            "target": "GUD",
+            "targetName": "GUD Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "CBA",
+            "sourceName": "Commonwealth Bank of Australia",
+            "target": "WOR",
+            "targetName": "Worley Limited",
+            "count": 1
+        },
+        {
+            "source": "CCL",
+            "sourceName": "Coca-Cola Amatil Limited",
+            "target": "CSR",
+            "targetName": "CSR Limited",
+            "count": 1
+        },
+        {
+            "source": "CCL",
+            "sourceName": "Coca-Cola Amatil Limited",
+            "target": "GEM",
+            "targetName": "G8 Education Limited",
+            "count": 1
+        },
+        {
+            "source": "CCL",
+            "sourceName": "Coca-Cola Amatil Limited",
+            "target": "GMG",
+            "targetName": "Goodman Group",
+            "count": 2
+        },
+        {
+            "source": "CCP",
+            "sourceName": "Credit Corp Group Limited",
+            "target": "IRE",
+            "targetName": "IRESS Limited",
+            "count": 1
+        },
+        {
+            "source": "CCX",
+            "sourceName": "City Chic Collective Limited",
+            "target": "IVC",
+            "targetName": "InvoCare Limited",
+            "count": 1
+        },
+        {
+            "source": "CCX",
+            "sourceName": "City Chic Collective Limited",
+            "target": "OBL",
+            "targetName": "Omni Bridgeway Limited",
+            "count": 1
+        },
+        {
+            "source": "CCX",
+            "sourceName": "City Chic Collective Limited",
+            "target": "REH",
+            "targetName": "Reece Limited",
+            "count": 1
+        },
+        {
+            "source": "CDA",
+            "sourceName": "Codan Limited",
+            "target": "EOS",
+            "targetName": "Electro Optic Systems Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "CDA",
+            "sourceName": "Codan Limited",
+            "target": "UWL",
+            "targetName": "Uniti Group Limited",
+            "count": 2
+        },
+        {
+            "source": "CGC",
+            "sourceName": "Costa Group Holdings Limited",
+            "target": "KGN",
+            "targetName": "Kogan.com Ltd",
+            "count": 1
+        },
+        {
+            "source": "CGC",
+            "sourceName": "Costa Group Holdings Limited",
+            "target": "NUF",
+            "targetName": "Nufarm Limited",
+            "count": 1
+        },
+        {
+            "source": "CGC",
+            "sourceName": "Costa Group Holdings Limited",
+            "target": "SHL",
+            "targetName": "Sonic Healthcare Limited",
+            "count": 1
+        },
+        {
+            "source": "CGC",
+            "sourceName": "Costa Group Holdings Limited",
+            "target": "TCL",
+            "targetName": "Transurban Group",
+            "count": 2
+        },
+        {
+            "source": "CGC",
+            "sourceName": "Costa Group Holdings Limited",
+            "target": "VCX",
+            "targetName": "Vicinity Centres",
+            "count": 1
+        },
+        {
+            "source": "CGF",
+            "sourceName": "Challenger Limited",
+            "target": "GMA",
+            "targetName": "Genworth Mortgage Insurance Australia Limited",
+            "count": 1
+        },
+        {
+            "source": "CGF",
+            "sourceName": "Challenger Limited",
+            "target": "IEL",
+            "targetName": "IDP Education Limited",
+            "count": 1
+        },
+        {
+            "source": "CGF",
+            "sourceName": "Challenger Limited",
+            "target": "QBE",
+            "targetName": "QBE Insurance Group Limited",
+            "count": 1
+        },
+        {
+            "source": "CGF",
+            "sourceName": "Challenger Limited",
+            "target": "SXL",
+            "targetName": "Southern Cross Media Group Limited",
+            "count": 1
+        },
+        {
+            "source": "CGF",
+            "sourceName": "Challenger Limited",
+            "target": "TAH",
+            "targetName": "Tabcorp Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "CHC",
+            "sourceName": "Charter Hall Group",
+            "target": "CLW",
+            "targetName": "Charter Hall Long Wale REIT",
+            "count": 1
+        },
+        {
+            "source": "CHC",
+            "sourceName": "Charter Hall Group",
+            "target": "CQE",
+            "targetName": "Charter Hall Social Infrastructure REIT",
+            "count": 1
+        },
+        {
+            "source": "CHC",
+            "sourceName": "Charter Hall Group",
+            "target": "CQR",
+            "targetName": "Charter Hall Retail REIT",
+            "count": 1
+        },
+        {
+            "source": "CHC",
+            "sourceName": "Charter Hall Group",
+            "target": "DOW",
+            "targetName": "Downer EDI Limited",
+            "count": 1
+        },
+        {
+            "source": "CHC",
+            "sourceName": "Charter Hall Group",
+            "target": "NUF",
+            "targetName": "Nufarm Limited",
+            "count": 1
+        },
+        {
+            "source": "CHC",
+            "sourceName": "Charter Hall Group",
+            "target": "ORI",
+            "targetName": "Orica Limited",
+            "count": 1
+        },
+        {
+            "source": "CHC",
+            "sourceName": "Charter Hall Group",
+            "target": "SKI",
+            "targetName": "Spark Infrastructure Group",
+            "count": 1
+        },
+        {
+            "source": "CIM",
+            "sourceName": "CIMIC Group Limited",
+            "target": "JHX",
+            "targetName": "James Hardie Industries Plc",
+            "count": 1
+        },
+        {
+            "source": "CIM",
+            "sourceName": "CIMIC Group Limited",
+            "target": "RWC",
+            "targetName": "Reliance Worldwide Corporation Limited",
+            "count": 1
+        },
+        {
+            "source": "CIM",
+            "sourceName": "CIMIC Group Limited",
+            "target": "SHL",
+            "targetName": "Sonic Healthcare Limited",
+            "count": 1
+        },
+        {
+            "source": "CIM",
+            "sourceName": "CIMIC Group Limited",
+            "target": "SIG",
+            "targetName": "Sigma Healthcare Limited",
+            "count": 1
+        },
+        {
+            "source": "CIP",
+            "sourceName": "Centuria Industrial REIT",
+            "target": "CNI",
+            "targetName": "Centuria Capital Limited",
+            "count": 1
+        },
+        {
+            "source": "CIP",
+            "sourceName": "Centuria Industrial REIT",
+            "target": "COF",
+            "targetName": "Centuria Office REIT",
+            "count": 5
+        },
+        {
+            "source": "CKF",
+            "sourceName": "Collins Foods Limited",
+            "target": "CSR",
+            "targetName": "CSR Limited",
+            "count": 1
+        },
+        {
+            "source": "CLW",
+            "sourceName": "Charter Hall Long Wale REIT",
+            "target": "CQE",
+            "targetName": "Charter Hall Social Infrastructure REIT",
+            "count": 1
+        },
+        {
+            "source": "CLW",
+            "sourceName": "Charter Hall Long Wale REIT",
+            "target": "CQR",
+            "targetName": "Charter Hall Retail REIT",
+            "count": 1
+        },
+        {
+            "source": "CLW",
+            "sourceName": "Charter Hall Long Wale REIT",
+            "target": "LNK",
+            "targetName": "Link Administration Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "CLW",
+            "sourceName": "Charter Hall Long Wale REIT",
+            "target": "NAB",
+            "targetName": "National Australia Bank Limited",
+            "count": 1
+        },
+        {
+            "source": "CMW",
+            "sourceName": "Cromwell Property Group",
+            "target": "NWL",
+            "targetName": "Netwealth Group Limited",
+            "count": 1
+        },
+        {
+            "source": "CMW",
+            "sourceName": "Cromwell Property Group",
+            "target": "PDL",
+            "targetName": "Pendal Group Limited",
+            "count": 1
+        },
+        {
+            "source": "CMW",
+            "sourceName": "Cromwell Property Group",
+            "target": "SKI",
+            "targetName": "Spark Infrastructure Group",
+            "count": 1
+        },
+        {
+            "source": "CNI",
+            "sourceName": "Centuria Capital Limited",
+            "target": "COF",
+            "targetName": "Centuria Office REIT",
+            "count": 1
+        },
+        {
+            "source": "CNI",
+            "sourceName": "Centuria Capital Limited",
+            "target": "RDC",
+            "targetName": "Redcape Hotel Group",
+            "count": 1
+        },
+        {
+            "source": "CNU",
+            "sourceName": "Chorus Limited",
+            "target": "MTS",
+            "targetName": "Metcash Limited",
+            "count": 1
+        },
+        {
+            "source": "CNU",
+            "sourceName": "Chorus Limited",
+            "target": "SKC",
+            "targetName": "SkyCity Entertainment Group Limited",
+            "count": 1
+        },
+        {
+            "source": "CNU",
+            "sourceName": "Chorus Limited",
+            "target": "XRO",
+            "targetName": "Xero Limited",
+            "count": 1
+        },
+        {
+            "source": "COE",
+            "sourceName": "Cooper Energy Limited",
+            "target": "DXS",
+            "targetName": "Dexus",
+            "count": 1
+        },
+        {
+            "source": "COE",
+            "sourceName": "Cooper Energy Limited",
+            "target": "EVN",
+            "targetName": "Evolution Mining Limited",
+            "count": 1
+        },
+        {
+            "source": "COE",
+            "sourceName": "Cooper Energy Limited",
+            "target": "WHC",
+            "targetName": "Whitehaven Coal Limited",
+            "count": 1
+        },
+        {
+            "source": "COH",
+            "sourceName": "Cochlear Limited",
+            "target": "CSL",
+            "targetName": "CSL Limited",
+            "count": 1
+        },
+        {
+            "source": "COH",
+            "sourceName": "Cochlear Limited",
+            "target": "FPH",
+            "targetName": "Fisher & Paykel Healthcare Corporation Limited",
+            "count": 2
+        },
+        {
+            "source": "COH",
+            "sourceName": "Cochlear Limited",
+            "target": "LNK",
+            "targetName": "Link Administration Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "COH",
+            "sourceName": "Cochlear Limited",
+            "target": "MSB",
+            "targetName": "Mesoblast Limited",
+            "count": 1
+        },
+        {
+            "source": "COH",
+            "sourceName": "Cochlear Limited",
+            "target": "MYX",
+            "targetName": "Mayne Pharma Group Limited",
+            "count": 1
+        },
+        {
+            "source": "COH",
+            "sourceName": "Cochlear Limited",
+            "target": "NHF",
+            "targetName": "NIB Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "COH",
+            "sourceName": "Cochlear Limited",
+            "target": "RHC",
+            "targetName": "Ramsay Health Care Limited",
+            "count": 1
+        },
+        {
+            "source": "COH",
+            "sourceName": "Cochlear Limited",
+            "target": "STO",
+            "targetName": "Santos Limited",
+            "count": 1
+        },
+        {
+            "source": "COH",
+            "sourceName": "Cochlear Limited",
+            "target": "SXL",
+            "targetName": "Southern Cross Media Group Limited",
+            "count": 1
+        },
+        {
+            "source": "COH",
+            "sourceName": "Cochlear Limited",
+            "target": "WBC",
+            "targetName": "Westpac Banking Corporation",
+            "count": 1
+        },
+        {
+            "source": "COL",
+            "sourceName": "Coles Group Limited",
+            "target": "CPU",
+            "targetName": "Computershare Limited",
+            "count": 1
+        },
+        {
+            "source": "COL",
+            "sourceName": "Coles Group Limited",
+            "target": "NHF",
+            "targetName": "NIB Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "COL",
+            "sourceName": "Coles Group Limited",
+            "target": "ORA",
+            "targetName": "Orora Limited",
+            "count": 1
+        },
+        {
+            "source": "COL",
+            "sourceName": "Coles Group Limited",
+            "target": "REA",
+            "targetName": "REA Group Ltd",
+            "count": 1
+        },
+        {
+            "source": "COL",
+            "sourceName": "Coles Group Limited",
+            "target": "SGR",
+            "targetName": "The Star Entertainment Group Limited",
+            "count": 1
+        },
+        {
+            "source": "COL",
+            "sourceName": "Coles Group Limited",
+            "target": "SYD",
+            "targetName": "Sydney Airport",
+            "count": 1
+        },
+        {
+            "source": "CPU",
+            "sourceName": "Computershare Limited",
+            "target": "ORA",
+            "targetName": "Orora Limited",
+            "count": 1
+        },
+        {
+            "source": "CPU",
+            "sourceName": "Computershare Limited",
+            "target": "SOL",
+            "targetName": "Washington H. Soul Pattinson and Co. Limited",
+            "count": 1
+        },
+        {
+            "source": "CPU",
+            "sourceName": "Computershare Limited",
+            "target": "SYD",
+            "targetName": "Sydney Airport",
+            "count": 1
+        },
+        {
+            "source": "CQE",
+            "sourceName": "Charter Hall Social Infrastructure REIT",
+            "target": "CQR",
+            "targetName": "Charter Hall Retail REIT",
+            "count": 1
+        },
+        {
+            "source": "CQR",
+            "sourceName": "Charter Hall Retail REIT",
+            "target": "QUB",
+            "targetName": "Qube Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "CSL",
+            "sourceName": "CSL Limited",
+            "target": "IPL",
+            "targetName": "Incitec Pivot Limited",
+            "count": 1
+        },
+        {
+            "source": "CSL",
+            "sourceName": "CSL Limited",
+            "target": "MPL",
+            "targetName": "Medibank Private Limited",
+            "count": 1
+        },
+        {
+            "source": "CSL",
+            "sourceName": "CSL Limited",
+            "target": "NAN",
+            "targetName": "Nanosonics Limited",
+            "count": 1
+        },
+        {
+            "source": "CSL",
+            "sourceName": "CSL Limited",
+            "target": "NUF",
+            "targetName": "Nufarm Limited",
+            "count": 1
+        },
+        {
+            "source": "CSL",
+            "sourceName": "CSL Limited",
+            "target": "RIO",
+            "targetName": "Rio Tinto Limited",
+            "count": 1
+        },
+        {
+            "source": "CSL",
+            "sourceName": "CSL Limited",
+            "target": "SGP",
+            "targetName": "Stockland",
+            "count": 1
+        },
+        {
+            "source": "CSL",
+            "sourceName": "CSL Limited",
+            "target": "TCL",
+            "targetName": "Transurban Group",
+            "count": 1
+        },
+        {
+            "source": "CSR",
+            "sourceName": "CSR Limited",
+            "target": "ELD",
+            "targetName": "Elders Limited",
+            "count": 1
+        },
+        {
+            "source": "CSR",
+            "sourceName": "CSR Limited",
+            "target": "GMG",
+            "targetName": "Goodman Group",
+            "count": 1
+        },
+        {
+            "source": "CSR",
+            "sourceName": "CSR Limited",
+            "target": "ING",
+            "targetName": "Inghams Group Limited",
+            "count": 1
+        },
+        {
+            "source": "CSR",
+            "sourceName": "CSR Limited",
+            "target": "SCG",
+            "targetName": "Scentre Group",
+            "count": 1
+        },
+        {
+            "source": "CUV",
+            "sourceName": "Clinuvel Pharmaceuticals Limited",
+            "target": "PET",
+            "targetName": "Phoslock Environmental Technologies Limited",
+            "count": 1
+        },
+        {
+            "source": "CWN",
+            "sourceName": "Crown Resorts Limited",
+            "target": "TWE",
+            "targetName": "Treasury Wine Estates Limited",
+            "count": 1
+        },
+        {
+            "source": "CWN",
+            "sourceName": "Crown Resorts Limited",
+            "target": "WEB",
+            "targetName": "Webjet Limited",
+            "count": 1
+        },
+        {
+            "source": "CWP",
+            "sourceName": "Cedar Woods Properties Limited",
+            "target": "EVT",
+            "targetName": "Event Hospitality and Entertainment Ltd",
+            "count": 1
+        },
+        {
+            "source": "CWY",
+            "sourceName": "Cleanaway Waste Management Limited",
+            "target": "DOW",
+            "targetName": "Downer EDI Limited",
+            "count": 1
+        },
+        {
+            "source": "CWY",
+            "sourceName": "Cleanaway Waste Management Limited",
+            "target": "LYC",
+            "targetName": "Lynas Corporation Limited",
+            "count": 2
+        },
+        {
+            "source": "DCN",
+            "sourceName": "Dacian Gold Limited",
+            "target": "PRN",
+            "targetName": "Perenti Global Limited",
+            "count": 1
+        },
+        {
+            "source": "DHG",
+            "sourceName": "Domain Holdings Australia Limited",
+            "target": "ELD",
+            "targetName": "Elders Limited",
+            "count": 1
+        },
+        {
+            "source": "DHG",
+            "sourceName": "Domain Holdings Australia Limited",
+            "target": "NEC",
+            "targetName": "Nine Entertainment Co. Holdings Limited",
+            "count": 2
+        },
+        {
+            "source": "DHG",
+            "sourceName": "Domain Holdings Australia Limited",
+            "target": "SUL",
+            "targetName": "Super Retail Group Limited",
+            "count": 1
+        },
+        {
+            "source": "DOW",
+            "sourceName": "Downer EDI Limited",
+            "target": "LYC",
+            "targetName": "Lynas Corporation Limited",
+            "count": 1
+        },
+        {
+            "source": "DOW",
+            "sourceName": "Downer EDI Limited",
+            "target": "SYD",
+            "targetName": "Sydney Airport",
+            "count": 1
+        },
+        {
+            "source": "DXS",
+            "sourceName": "Dexus",
+            "target": "FMG",
+            "targetName": "Fortescue Metals Group Ltd",
+            "count": 1
+        },
+        {
+            "source": "DXS",
+            "sourceName": "Dexus",
+            "target": "LIC",
+            "targetName": "Lifestyle Communities Limited",
+            "count": 1
+        },
+        {
+            "source": "DXS",
+            "sourceName": "Dexus",
+            "target": "MTS",
+            "targetName": "Metcash Limited",
+            "count": 1
+        },
+        {
+            "source": "DXS",
+            "sourceName": "Dexus",
+            "target": "NEC",
+            "targetName": "Nine Entertainment Co. Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "DXS",
+            "sourceName": "Dexus",
+            "target": "OZL",
+            "targetName": "OZ Minerals Limited",
+            "count": 1
+        },
+        {
+            "source": "DXS",
+            "sourceName": "Dexus",
+            "target": "SGR",
+            "targetName": "The Star Entertainment Group Limited",
+            "count": 1
+        },
+        {
+            "source": "DXS",
+            "sourceName": "Dexus",
+            "target": "WHC",
+            "targetName": "Whitehaven Coal Limited",
+            "count": 1
+        },
+        {
+            "source": "ECX",
+            "sourceName": "Eclipx Group Limited",
+            "target": "FNP",
+            "targetName": "Freedom Foods Group Limited",
+            "count": 1
+        },
+        {
+            "source": "EHE",
+            "sourceName": "Estia Health Limited",
+            "target": "IDX",
+            "targetName": "Integral Diagnostics Limited",
+            "count": 1
+        },
+        {
+            "source": "EHE",
+            "sourceName": "Estia Health Limited",
+            "target": "MMS",
+            "targetName": "McMillan Shakespeare Limited",
+            "count": 1
+        },
+        {
+            "source": "EHE",
+            "sourceName": "Estia Health Limited",
+            "target": "RHC",
+            "targetName": "Ramsay Health Care Limited",
+            "count": 1
+        },
+        {
+            "source": "EHE",
+            "sourceName": "Estia Health Limited",
+            "target": "SVW",
+            "targetName": "Seven Group Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "EHE",
+            "sourceName": "Estia Health Limited",
+            "target": "VCX",
+            "targetName": "Vicinity Centres",
+            "count": 1
+        },
+        {
+            "source": "EHL",
+            "sourceName": "Emeco Holdings Limited",
+            "target": "GNC",
+            "targetName": "Graincorp Limited",
+            "count": 1
+        },
+        {
+            "source": "EHL",
+            "sourceName": "Emeco Holdings Limited",
+            "target": "IVC",
+            "targetName": "InvoCare Limited",
+            "count": 1
+        },
+        {
+            "source": "ELD",
+            "sourceName": "Elders Limited",
+            "target": "RFF",
+            "targetName": "Rural Funds Group",
+            "count": 1
+        },
+        {
+            "source": "ELD",
+            "sourceName": "Elders Limited",
+            "target": "SHV",
+            "targetName": "Select Harvests Limited",
+            "count": 1
+        },
+        {
+            "source": "ELD",
+            "sourceName": "Elders Limited",
+            "target": "SUL",
+            "targetName": "Super Retail Group Limited",
+            "count": 1
+        },
+        {
+            "source": "EML",
+            "sourceName": "EML Payments Limited",
+            "target": "JBH",
+            "targetName": "JB Hi-Fi Limited",
+            "count": 1
+        },
+        {
+            "source": "EML",
+            "sourceName": "EML Payments Limited",
+            "target": "SCP",
+            "targetName": "Shopping Centres Australasia Property Group",
+            "count": 1
+        },
+        {
+            "source": "EML",
+            "sourceName": "EML Payments Limited",
+            "target": "SDF",
+            "targetName": "Steadfast Group Limited",
+            "count": 1
+        },
+        {
+            "source": "EVN",
+            "sourceName": "Evolution Mining Limited",
+            "target": "PRN",
+            "targetName": "Perenti Global Limited",
+            "count": 1
+        },
+        {
+            "source": "FBU",
+            "sourceName": "Fletcher Building Limited",
+            "target": "NAB",
+            "targetName": "National Australia Bank Limited",
+            "count": 1
+        },
+        {
+            "source": "FLT",
+            "sourceName": "Flight Centre Travel Group Limited",
+            "target": "MFG",
+            "targetName": "Magellan Financial Group Limited",
+            "count": 1
+        },
+        {
+            "source": "FNP",
+            "sourceName": "Freedom Foods Group Limited",
+            "target": "GWA",
+            "targetName": "GWA Group Limited",
+            "count": 1
+        },
+        {
+            "source": "FPH",
+            "sourceName": "Fisher & Paykel Healthcare Corporation Limited",
+            "target": "MSB",
+            "targetName": "Mesoblast Limited",
+            "count": 1
+        },
+        {
+            "source": "FPH",
+            "sourceName": "Fisher & Paykel Healthcare Corporation Limited",
+            "target": "NAB",
+            "targetName": "National Australia Bank Limited",
+            "count": 1
+        },
+        {
+            "source": "FPH",
+            "sourceName": "Fisher & Paykel Healthcare Corporation Limited",
+            "target": "NHF",
+            "targetName": "NIB Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "FPH",
+            "sourceName": "Fisher & Paykel Healthcare Corporation Limited",
+            "target": "SHL",
+            "targetName": "Sonic Healthcare Limited",
+            "count": 1
+        },
+        {
+            "source": "GEM",
+            "sourceName": "G8 Education Limited",
+            "target": "GMA",
+            "targetName": "Genworth Mortgage Insurance Australia Limited",
+            "count": 1
+        },
+        {
+            "source": "GEM",
+            "sourceName": "G8 Education Limited",
+            "target": "GMG",
+            "targetName": "Goodman Group",
+            "count": 1
+        },
+        {
+            "source": "GMA",
+            "sourceName": "Genworth Mortgage Insurance Australia Limited",
+            "target": "MYS",
+            "targetName": "MyState Limited",
+            "count": 1
+        },
+        {
+            "source": "GMA",
+            "sourceName": "Genworth Mortgage Insurance Australia Limited",
+            "target": "SDF",
+            "targetName": "Steadfast Group Limited",
+            "count": 1
+        },
+        {
+            "source": "GMG",
+            "sourceName": "Goodman Group",
+            "target": "IPL",
+            "targetName": "Incitec Pivot Limited",
+            "count": 1
+        },
+        {
+            "source": "GMG",
+            "sourceName": "Goodman Group",
+            "target": "OZL",
+            "targetName": "OZ Minerals Limited",
+            "count": 1
+        },
+        {
+            "source": "GNC",
+            "sourceName": "Graincorp Limited",
+            "target": "NUF",
+            "targetName": "Nufarm Limited",
+            "count": 1
+        },
+        {
+            "source": "GOR",
+            "sourceName": "Gold Road Resources Limited",
+            "target": "SBM",
+            "targetName": "St Barbara Limited",
+            "count": 1
+        },
+        {
+            "source": "GOR",
+            "sourceName": "Gold Road Resources Limited",
+            "target": "WES",
+            "targetName": "Wesfarmers Limited",
+            "count": 1
+        },
+        {
+            "source": "GOR",
+            "sourceName": "Gold Road Resources Limited",
+            "target": "WOR",
+            "targetName": "Worley Limited",
+            "count": 1
+        },
+        {
+            "source": "GOR",
+            "sourceName": "Gold Road Resources Limited",
+            "target": "WSA",
+            "targetName": "Western Areas Limited",
+            "count": 1
+        },
+        {
+            "source": "GOZ",
+            "sourceName": "Growthpoint Properties Australia",
+            "target": "IRE",
+            "targetName": "IRESS Limited",
+            "count": 1
+        },
+        {
+            "source": "GOZ",
+            "sourceName": "Growthpoint Properties Australia",
+            "target": "ORG",
+            "targetName": "Origin Energy Limited",
+            "count": 1
+        },
+        {
+            "source": "GOZ",
+            "sourceName": "Growthpoint Properties Australia",
+            "target": "ORI",
+            "targetName": "Orica Limited",
+            "count": 1
+        },
+        {
+            "source": "GOZ",
+            "sourceName": "Growthpoint Properties Australia",
+            "target": "QAN",
+            "targetName": "Qantas Airways Limited",
+            "count": 1
+        },
+        {
+            "source": "GPT",
+            "sourceName": "GPT Group",
+            "target": "IFL",
+            "targetName": "IOOF Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "GPT",
+            "sourceName": "GPT Group",
+            "target": "NCM",
+            "targetName": "Newcrest Mining Limited",
+            "count": 1
+        },
+        {
+            "source": "GPT",
+            "sourceName": "GPT Group",
+            "target": "NEA",
+            "targetName": "Nearmap Ltd",
+            "count": 1
+        },
+        {
+            "source": "GPT",
+            "sourceName": "GPT Group",
+            "target": "ORI",
+            "targetName": "Orica Limited",
+            "count": 1
+        },
+        {
+            "source": "GPT",
+            "sourceName": "GPT Group",
+            "target": "TAH",
+            "targetName": "Tabcorp Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "GPT",
+            "sourceName": "GPT Group",
+            "target": "WPL",
+            "targetName": "Woodside Petroleum Limited",
+            "count": 1
+        },
+        {
+            "source": "GUD",
+            "sourceName": "GUD Holdings Limited",
+            "target": "HSN",
+            "targetName": "Hansen Technologies Limited",
+            "count": 1
+        },
+        {
+            "source": "GUD",
+            "sourceName": "GUD Holdings Limited",
+            "target": "WOR",
+            "targetName": "Worley Limited",
+            "count": 1
+        },
+        {
+            "source": "GWA",
+            "sourceName": "GWA Group Limited",
+            "target": "JBH",
+            "targetName": "JB Hi-Fi Limited",
+            "count": 1
+        },
+        {
+            "source": "GWA",
+            "sourceName": "GWA Group Limited",
+            "target": "MGR",
+            "targetName": "Mirvac Group",
+            "count": 1
+        },
+        {
+            "source": "GWA",
+            "sourceName": "GWA Group Limited",
+            "target": "MTS",
+            "targetName": "Metcash Limited",
+            "count": 1
+        },
+        {
+            "source": "GWA",
+            "sourceName": "GWA Group Limited",
+            "target": "NCK",
+            "targetName": "Nick Scali Limited",
+            "count": 1
+        },
+        {
+            "source": "GWA",
+            "sourceName": "GWA Group Limited",
+            "target": "SPK",
+            "targetName": "Spark New Zealand Limited",
+            "count": 1
+        },
+        {
+            "source": "HLS",
+            "sourceName": "Healius Limited",
+            "target": "NUF",
+            "targetName": "Nufarm Limited",
+            "count": 1
+        },
+        {
+            "source": "HLS",
+            "sourceName": "Healius Limited",
+            "target": "ORE",
+            "targetName": "Orocobre Limited",
+            "count": 1
+        },
+        {
+            "source": "HLS",
+            "sourceName": "Healius Limited",
+            "target": "WTC",
+            "targetName": "Wisetech Global Limited",
+            "count": 1
+        },
+        {
+            "source": "HPI",
+            "sourceName": "Hotel Property Investments",
+            "target": "SIG",
+            "targetName": "Sigma Healthcare Limited",
+            "count": 1
+        },
+        {
+            "source": "IAG",
+            "sourceName": "Insurance Australia Group Limited",
+            "target": "SGP",
+            "targetName": "Stockland",
+            "count": 1
+        },
+        {
+            "source": "IAP",
+            "sourceName": "Investec Australia Property Fund",
+            "target": "PMV",
+            "targetName": "Premier Investments Limited",
+            "count": 1
+        },
+        {
+            "source": "IAP",
+            "sourceName": "Investec Australia Property Fund",
+            "target": "SUN",
+            "targetName": "Suncorp Group Limited",
+            "count": 1
+        },
+        {
+            "source": "IAP",
+            "sourceName": "Investec Australia Property Fund",
+            "target": "TGR",
+            "targetName": "Tassal Group Limited",
+            "count": 1
+        },
+        {
+            "source": "IAP",
+            "sourceName": "Investec Australia Property Fund",
+            "target": "WPR",
+            "targetName": "Waypoint REIT Limited",
+            "count": 1
+        },
+        {
+            "source": "IDX",
+            "sourceName": "Integral Diagnostics Limited",
+            "target": "IPH",
+            "targetName": "IPH Limited",
+            "count": 1
+        },
+        {
+            "source": "IDX",
+            "sourceName": "Integral Diagnostics Limited",
+            "target": "MMS",
+            "targetName": "McMillan Shakespeare Limited",
+            "count": 1
+        },
+        {
+            "source": "IFM",
+            "sourceName": "Infomedia Limited",
+            "target": "IRI",
+            "targetName": "Integrated Research Limited",
+            "count": 1
+        },
+        {
+            "source": "IFM",
+            "sourceName": "Infomedia Limited",
+            "target": "IVC",
+            "targetName": "InvoCare Limited",
+            "count": 1
+        },
+        {
+            "source": "IFM",
+            "sourceName": "Infomedia Limited",
+            "target": "SDF",
+            "targetName": "Steadfast Group Limited",
+            "count": 1
+        },
+        {
+            "source": "IGO",
+            "sourceName": "IGO Limited",
+            "target": "STO",
+            "targetName": "Santos Limited",
+            "count": 1
+        },
+        {
+            "source": "ILU",
+            "sourceName": "Iluka Resources Limited",
+            "target": "PRN",
+            "targetName": "Perenti Global Limited",
+            "count": 1
+        },
+        {
+            "source": "ILU",
+            "sourceName": "Iluka Resources Limited",
+            "target": "SKI",
+            "targetName": "Spark Infrastructure Group",
+            "count": 1
+        },
+        {
+            "source": "IMD",
+            "sourceName": "Imdex Limited",
+            "target": "PLS",
+            "targetName": "Pilbara Minerals Limited",
+            "count": 1
+        },
+        {
+            "source": "IMD",
+            "sourceName": "Imdex Limited",
+            "target": "PRU",
+            "targetName": "Perseus Mining Limited",
+            "count": 1
+        },
+        {
+            "source": "IMD",
+            "sourceName": "Imdex Limited",
+            "target": "RED",
+            "targetName": "Red 5 Limited",
+            "count": 1
+        },
+        {
+            "source": "ING",
+            "sourceName": "Inghams Group Limited",
+            "target": "IVC",
+            "targetName": "InvoCare Limited",
+            "count": 1
+        },
+        {
+            "source": "ING",
+            "sourceName": "Inghams Group Limited",
+            "target": "MPL",
+            "targetName": "Medibank Private Limited",
+            "count": 1
+        },
+        {
+            "source": "ING",
+            "sourceName": "Inghams Group Limited",
+            "target": "MTS",
+            "targetName": "Metcash Limited",
+            "count": 1
+        },
+        {
+            "source": "ING",
+            "sourceName": "Inghams Group Limited",
+            "target": "SCG",
+            "targetName": "Scentre Group",
+            "count": 1
+        },
+        {
+            "source": "ING",
+            "sourceName": "Inghams Group Limited",
+            "target": "SXL",
+            "targetName": "Southern Cross Media Group Limited",
+            "count": 2
+        },
+        {
+            "source": "ING",
+            "sourceName": "Inghams Group Limited",
+            "target": "TGR",
+            "targetName": "Tassal Group Limited",
+            "count": 1
+        },
+        {
+            "source": "IPL",
+            "sourceName": "Incitec Pivot Limited",
+            "target": "NCM",
+            "targetName": "Newcrest Mining Limited",
+            "count": 1
+        },
+        {
+            "source": "IPL",
+            "sourceName": "Incitec Pivot Limited",
+            "target": "OZL",
+            "targetName": "OZ Minerals Limited",
+            "count": 1
+        },
+        {
+            "source": "IPL",
+            "sourceName": "Incitec Pivot Limited",
+            "target": "S32",
+            "targetName": "South32 Limited",
+            "count": 1
+        },
+        {
+            "source": "IRE",
+            "sourceName": "IRESS Limited",
+            "target": "PPT",
+            "targetName": "Perpetual Limited",
+            "count": 1
+        },
+        {
+            "source": "IRE",
+            "sourceName": "IRESS Limited",
+            "target": "SEK",
+            "targetName": "SEEK Limited",
+            "count": 1
+        },
+        {
+            "source": "IRE",
+            "sourceName": "IRESS Limited",
+            "target": "VOC",
+            "targetName": "Vocus Group Limited",
+            "count": 1
+        },
+        {
+            "source": "IVC",
+            "sourceName": "InvoCare Limited",
+            "target": "MVF",
+            "targetName": "Monash IVF Group Limited",
+            "count": 1
+        },
+        {
+            "source": "IVC",
+            "sourceName": "InvoCare Limited",
+            "target": "REH",
+            "targetName": "Reece Limited",
+            "count": 1
+        },
+        {
+            "source": "IVC",
+            "sourceName": "InvoCare Limited",
+            "target": "TGR",
+            "targetName": "Tassal Group Limited",
+            "count": 1
+        },
+        {
+            "source": "JBH",
+            "sourceName": "JB Hi-Fi Limited",
+            "target": "NCK",
+            "targetName": "Nick Scali Limited",
+            "count": 1
+        },
+        {
+            "source": "JBH",
+            "sourceName": "JB Hi-Fi Limited",
+            "target": "SCP",
+            "targetName": "Shopping Centres Australasia Property Group",
+            "count": 1
+        },
+        {
+            "source": "JBH",
+            "sourceName": "JB Hi-Fi Limited",
+            "target": "SVW",
+            "targetName": "Seven Group Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "JHX",
+            "sourceName": "James Hardie Industries Plc",
+            "target": "RWC",
+            "targetName": "Reliance Worldwide Corporation Limited",
+            "count": 1
+        },
+        {
+            "source": "LIC",
+            "sourceName": "Lifestyle Communities Limited",
+            "target": "OML",
+            "targetName": "Oohmedia Limited",
+            "count": 1
+        },
+        {
+            "source": "LIC",
+            "sourceName": "Lifestyle Communities Limited",
+            "target": "REH",
+            "targetName": "Reece Limited",
+            "count": 1
+        },
+        {
+            "source": "LLC",
+            "sourceName": "Lendlease Group",
+            "target": "MQG",
+            "targetName": "Macquarie Group Limited",
+            "count": 2
+        },
+        {
+            "source": "LLC",
+            "sourceName": "Lendlease Group",
+            "target": "WOW",
+            "targetName": "Woolworths Group Limited",
+            "count": 1
+        },
+        {
+            "source": "LNK",
+            "sourceName": "Link Administration Holdings Limited",
+            "target": "NAB",
+            "targetName": "National Australia Bank Limited",
+            "count": 1
+        },
+        {
+            "source": "LNK",
+            "sourceName": "Link Administration Holdings Limited",
+            "target": "PPT",
+            "targetName": "Perpetual Limited",
+            "count": 1
+        },
+        {
+            "source": "LNK",
+            "sourceName": "Link Administration Holdings Limited",
+            "target": "SGR",
+            "targetName": "The Star Entertainment Group Limited",
+            "count": 1
+        },
+        {
+            "source": "LNK",
+            "sourceName": "Link Administration Holdings Limited",
+            "target": "SIQ",
+            "targetName": "Smartgroup Corporation Ltd",
+            "count": 1
+        },
+        {
+            "source": "LNK",
+            "sourceName": "Link Administration Holdings Limited",
+            "target": "SUL",
+            "targetName": "Super Retail Group Limited",
+            "count": 1
+        },
+        {
+            "source": "LNK",
+            "sourceName": "Link Administration Holdings Limited",
+            "target": "SXL",
+            "targetName": "Southern Cross Media Group Limited",
+            "count": 1
+        },
+        {
+            "source": "LYC",
+            "sourceName": "Lynas Corporation Limited",
+            "target": "OFX",
+            "targetName": "OFX Group Limited",
+            "count": 1
+        },
+        {
+            "source": "LYC",
+            "sourceName": "Lynas Corporation Limited",
+            "target": "REA",
+            "targetName": "REA Group Ltd",
+            "count": 1
+        },
+        {
+            "source": "MFG",
+            "sourceName": "Magellan Financial Group Limited",
+            "target": "OBL",
+            "targetName": "Omni Bridgeway Limited",
+            "count": 1
+        },
+        {
+            "source": "MFG",
+            "sourceName": "Magellan Financial Group Limited",
+            "target": "REA",
+            "targetName": "REA Group Ltd",
+            "count": 1
+        },
+        {
+            "source": "MGR",
+            "sourceName": "Mirvac Group",
+            "target": "RWC",
+            "targetName": "Reliance Worldwide Corporation Limited",
+            "count": 1
+        },
+        {
+            "source": "MGR",
+            "sourceName": "Mirvac Group",
+            "target": "SIG",
+            "targetName": "Sigma Healthcare Limited",
+            "count": 1
+        },
+        {
+            "source": "MGR",
+            "sourceName": "Mirvac Group",
+            "target": "TCL",
+            "targetName": "Transurban Group",
+            "count": 1
+        },
+        {
+            "source": "MGR",
+            "sourceName": "Mirvac Group",
+            "target": "WBC",
+            "targetName": "Westpac Banking Corporation",
+            "count": 1
+        },
+        {
+            "source": "MGX",
+            "sourceName": "Mount Gibson Iron Limited",
+            "target": "RRL",
+            "targetName": "Regis Resources Limited",
+            "count": 1
+        },
+        {
+            "source": "MIN",
+            "sourceName": "Mineral Resources Limited",
+            "target": "SLR",
+            "targetName": "Silver Lake Resources Limited",
+            "count": 1
+        },
+        {
+            "source": "MMS",
+            "sourceName": "McMillan Shakespeare Limited",
+            "target": "REH",
+            "targetName": "Reece Limited",
+            "count": 1
+        },
+        {
+            "source": "MND",
+            "sourceName": "Monadelphous Group Limited",
+            "target": "SSM",
+            "targetName": "Service Stream Limited",
+            "count": 1
+        },
+        {
+            "source": "MP1",
+            "sourceName": "Megaport Limited",
+            "target": "SLC",
+            "targetName": "Superloop Limited",
+            "count": 1
+        },
+        {
+            "source": "MPL",
+            "sourceName": "Medibank Private Limited",
+            "target": "QBE",
+            "targetName": "QBE Insurance Group Limited",
+            "count": 1
+        },
+        {
+            "source": "MPL",
+            "sourceName": "Medibank Private Limited",
+            "target": "SCG",
+            "targetName": "Scentre Group",
+            "count": 1
+        },
+        {
+            "source": "MPL",
+            "sourceName": "Medibank Private Limited",
+            "target": "SGP",
+            "targetName": "Stockland",
+            "count": 1
+        },
+        {
+            "source": "MPL",
+            "sourceName": "Medibank Private Limited",
+            "target": "TCL",
+            "targetName": "Transurban Group",
+            "count": 1
+        },
+        {
+            "source": "MQG",
+            "sourceName": "Macquarie Group Limited",
+            "target": "ORG",
+            "targetName": "Origin Energy Limited",
+            "count": 1
+        },
+        {
+            "source": "MQG",
+            "sourceName": "Macquarie Group Limited",
+            "target": "SOL",
+            "targetName": "Washington H. Soul Pattinson and Co. Limited",
+            "count": 1
+        },
+        {
+            "source": "MQG",
+            "sourceName": "Macquarie Group Limited",
+            "target": "WOW",
+            "targetName": "Woolworths Group Limited",
+            "count": 2
+        },
+        {
+            "source": "MSB",
+            "sourceName": "Mesoblast Limited",
+            "target": "NHF",
+            "targetName": "NIB Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "MTS",
+            "sourceName": "Metcash Limited",
+            "target": "OZL",
+            "targetName": "OZ Minerals Limited",
+            "count": 1
+        },
+        {
+            "source": "MTS",
+            "sourceName": "Metcash Limited",
+            "target": "SKC",
+            "targetName": "SkyCity Entertainment Group Limited",
+            "count": 1
+        },
+        {
+            "source": "MTS",
+            "sourceName": "Metcash Limited",
+            "target": "SXL",
+            "targetName": "Southern Cross Media Group Limited",
+            "count": 2
+        },
+        {
+            "source": "MVF",
+            "sourceName": "Monash IVF Group Limited",
+            "target": "SPL",
+            "targetName": "Starpharma Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "MVP",
+            "sourceName": "Medical Developments International Limited",
+            "target": "PNV",
+            "targetName": "Polynovo Limited",
+            "count": 5
+        },
+        {
+            "source": "NAB",
+            "sourceName": "National Australia Bank Limited",
+            "target": "NHF",
+            "targetName": "NIB Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "NAB",
+            "sourceName": "National Australia Bank Limited",
+            "target": "PTM",
+            "targetName": "Platinum Asset Management Limited",
+            "count": 1
+        },
+        {
+            "source": "NAB",
+            "sourceName": "National Australia Bank Limited",
+            "target": "RIO",
+            "targetName": "Rio Tinto Limited",
+            "count": 1
+        },
+        {
+            "source": "NAB",
+            "sourceName": "National Australia Bank Limited",
+            "target": "SYD",
+            "targetName": "Sydney Airport",
+            "count": 1
+        },
+        {
+            "source": "NAN",
+            "sourceName": "Nanosonics Limited",
+            "target": "NUF",
+            "targetName": "Nufarm Limited",
+            "count": 1
+        },
+        {
+            "source": "NAN",
+            "sourceName": "Nanosonics Limited",
+            "target": "OFX",
+            "targetName": "OFX Group Limited",
+            "count": 1
+        },
+        {
+            "source": "NAN",
+            "sourceName": "Nanosonics Limited",
+            "target": "ORG",
+            "targetName": "Origin Energy Limited",
+            "count": 1
+        },
+        {
+            "source": "NCM",
+            "sourceName": "Newcrest Mining Limited",
+            "target": "S32",
+            "targetName": "South32 Limited",
+            "count": 1
+        },
+        {
+            "source": "NCM",
+            "sourceName": "Newcrest Mining Limited",
+            "target": "TAH",
+            "targetName": "Tabcorp Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "NCM",
+            "sourceName": "Newcrest Mining Limited",
+            "target": "WOR",
+            "targetName": "Worley Limited",
+            "count": 1
+        },
+        {
+            "source": "NEA",
+            "sourceName": "Nearmap Ltd",
+            "target": "TNE",
+            "targetName": "Technology One Limited",
+            "count": 1
+        },
+        {
+            "source": "NEC",
+            "sourceName": "Nine Entertainment Co. Holdings Limited",
+            "target": "ORA",
+            "targetName": "Orora Limited",
+            "count": 1
+        },
+        {
+            "source": "NHC",
+            "sourceName": "New Hope Corporation Limited",
+            "target": "SOL",
+            "targetName": "Washington H. Soul Pattinson and Co. Limited",
+            "count": 3
+        },
+        {
+            "source": "NHC",
+            "sourceName": "New Hope Corporation Limited",
+            "target": "TPG",
+            "targetName": "TPG Telecom Limited",
+            "count": 1
+        },
+        {
+            "source": "NHF",
+            "sourceName": "NIB Holdings Limited",
+            "target": "PTM",
+            "targetName": "Platinum Asset Management Limited",
+            "count": 1
+        },
+        {
+            "source": "NHF",
+            "sourceName": "NIB Holdings Limited",
+            "target": "SCP",
+            "targetName": "Shopping Centres Australasia Property Group",
+            "count": 1
+        },
+        {
+            "source": "NHF",
+            "sourceName": "NIB Holdings Limited",
+            "target": "SUN",
+            "targetName": "Suncorp Group Limited",
+            "count": 1
+        },
+        {
+            "source": "NSR",
+            "sourceName": "National Storage REIT",
+            "target": "SCG",
+            "targetName": "Scentre Group",
+            "count": 1
+        },
+        {
+            "source": "NSR",
+            "sourceName": "National Storage REIT",
+            "target": "WPR",
+            "targetName": "Waypoint REIT Limited",
+            "count": 1
+        },
+        {
+            "source": "NST",
+            "sourceName": "Northern Star Resources Ltd",
+            "target": "PLS",
+            "targetName": "Pilbara Minerals Limited",
+            "count": 1
+        },
+        {
+            "source": "NUF",
+            "sourceName": "Nufarm Limited",
+            "target": "SKI",
+            "targetName": "Spark Infrastructure Group",
+            "count": 1
+        },
+        {
+            "source": "NWL",
+            "sourceName": "Netwealth Group Limited",
+            "target": "PMV",
+            "targetName": "Premier Investments Limited",
+            "count": 1
+        },
+        {
+            "source": "OFX",
+            "sourceName": "OFX Group Limited",
+            "target": "ORG",
+            "targetName": "Origin Energy Limited",
+            "count": 1
+        },
+        {
+            "source": "OML",
+            "sourceName": "Oohmedia Limited",
+            "target": "VOC",
+            "targetName": "Vocus Group Limited",
+            "count": 1
+        },
+        {
+            "source": "ORA",
+            "sourceName": "Orora Limited",
+            "target": "SGM",
+            "targetName": "Sims Limited",
+            "count": 1
+        },
+        {
+            "source": "ORA",
+            "sourceName": "Orora Limited",
+            "target": "SYD",
+            "targetName": "Sydney Airport",
+            "count": 1
+        },
+        {
+            "source": "ORA",
+            "sourceName": "Orora Limited",
+            "target": "WOR",
+            "targetName": "Worley Limited",
+            "count": 1
+        },
+        {
+            "source": "ORE",
+            "sourceName": "Orocobre Limited",
+            "target": "OZL",
+            "targetName": "OZ Minerals Limited",
+            "count": 1
+        },
+        {
+            "source": "ORG",
+            "sourceName": "Origin Energy Limited",
+            "target": "ORI",
+            "targetName": "Orica Limited",
+            "count": 1
+        },
+        {
+            "source": "ORG",
+            "sourceName": "Origin Energy Limited",
+            "target": "QAN",
+            "targetName": "Qantas Airways Limited",
+            "count": 1
+        },
+        {
+            "source": "ORG",
+            "sourceName": "Origin Energy Limited",
+            "target": "WOW",
+            "targetName": "Woolworths Group Limited",
+            "count": 2
+        },
+        {
+            "source": "ORG",
+            "sourceName": "Origin Energy Limited",
+            "target": "WTC",
+            "targetName": "Wisetech Global Limited",
+            "count": 1
+        },
+        {
+            "source": "ORI",
+            "sourceName": "Orica Limited",
+            "target": "QAN",
+            "targetName": "Qantas Airways Limited",
+            "count": 1
+        },
+        {
+            "source": "ORI",
+            "sourceName": "Orica Limited",
+            "target": "WPL",
+            "targetName": "Woodside Petroleum Limited",
+            "count": 1
+        },
+        {
+            "source": "PDL",
+            "sourceName": "Pendal Group Limited",
+            "target": "SKI",
+            "targetName": "Spark Infrastructure Group",
+            "count": 1
+        },
+        {
+            "source": "PDL",
+            "sourceName": "Pendal Group Limited",
+            "target": "SSM",
+            "targetName": "Service Stream Limited",
+            "count": 1
+        },
+        {
+            "source": "PGH",
+            "sourceName": "Pact Group Holdings Ltd",
+            "target": "SEK",
+            "targetName": "SEEK Limited",
+            "count": 1
+        },
+        {
+            "source": "PLS",
+            "sourceName": "Pilbara Minerals Limited",
+            "target": "PRU",
+            "targetName": "Perseus Mining Limited",
+            "count": 1
+        },
+        {
+            "source": "PLS",
+            "sourceName": "Pilbara Minerals Limited",
+            "target": "RRL",
+            "targetName": "Regis Resources Limited",
+            "count": 1
+        },
+        {
+            "source": "PLS",
+            "sourceName": "Pilbara Minerals Limited",
+            "target": "SAR",
+            "targetName": "Saracen Mineral Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "PMV",
+            "sourceName": "Premier Investments Limited",
+            "target": "SUN",
+            "targetName": "Suncorp Group Limited",
+            "count": 2
+        },
+        {
+            "source": "PNI",
+            "sourceName": "Pinnacle Investment Management Group Limited",
+            "target": "SGR",
+            "targetName": "The Star Entertainment Group Limited",
+            "count": 1
+        },
+        {
+            "source": "PPT",
+            "sourceName": "Perpetual Limited",
+            "target": "SUN",
+            "targetName": "Suncorp Group Limited",
+            "count": 1
+        },
+        {
+            "source": "PRU",
+            "sourceName": "Perseus Mining Limited",
+            "target": "WSA",
+            "targetName": "Western Areas Limited",
+            "count": 1
+        },
+        {
+            "source": "QAN",
+            "sourceName": "Qantas Airways Limited",
+            "target": "RIO",
+            "targetName": "Rio Tinto Limited",
+            "count": 1
+        },
+        {
+            "source": "QAN",
+            "sourceName": "Qantas Airways Limited",
+            "target": "TWE",
+            "targetName": "Treasury Wine Estates Limited",
+            "count": 1
+        },
+        {
+            "source": "QAN",
+            "sourceName": "Qantas Airways Limited",
+            "target": "WPL",
+            "targetName": "Woodside Petroleum Limited",
+            "count": 1
+        },
+        {
+            "source": "QBE",
+            "sourceName": "QBE Insurance Group Limited",
+            "target": "SCG",
+            "targetName": "Scentre Group",
+            "count": 1
+        },
+        {
+            "source": "RFF",
+            "sourceName": "Rural Funds Group",
+            "target": "SHV",
+            "targetName": "Select Harvests Limited",
+            "count": 1
+        },
+        {
+            "source": "RHC",
+            "sourceName": "Ramsay Health Care Limited",
+            "target": "TYR",
+            "targetName": "Tyro Payments Limited",
+            "count": 1
+        },
+        {
+            "source": "RHC",
+            "sourceName": "Ramsay Health Care Limited",
+            "target": "VCX",
+            "targetName": "Vicinity Centres",
+            "count": 1
+        },
+        {
+            "source": "RHC",
+            "sourceName": "Ramsay Health Care Limited",
+            "target": "WBC",
+            "targetName": "Westpac Banking Corporation",
+            "count": 1
+        },
+        {
+            "source": "RHC",
+            "sourceName": "Ramsay Health Care Limited",
+            "target": "XRO",
+            "targetName": "Xero Limited",
+            "count": 1
+        },
+        {
+            "source": "RMS",
+            "sourceName": "Ramelius Resources Limited",
+            "target": "WSA",
+            "targetName": "Western Areas Limited",
+            "count": 1
+        },
+        {
+            "source": "RWC",
+            "sourceName": "Reliance Worldwide Corporation Limited",
+            "target": "SIG",
+            "targetName": "Sigma Healthcare Limited",
+            "count": 1
+        },
+        {
+            "source": "S32",
+            "sourceName": "South32 Limited",
+            "target": "WES",
+            "targetName": "Wesfarmers Limited",
+            "count": 1
+        },
+        {
+            "source": "S32",
+            "sourceName": "South32 Limited",
+            "target": "WPL",
+            "targetName": "Woodside Petroleum Limited",
+            "count": 1
+        },
+        {
+            "source": "SAR",
+            "sourceName": "Saracen Mineral Holdings Limited",
+            "target": "SFR",
+            "targetName": "Sandfire Resources Limited",
+            "count": 1
+        },
+        {
+            "source": "SBM",
+            "sourceName": "St Barbara Limited",
+            "target": "WSA",
+            "targetName": "Western Areas Limited",
+            "count": 1
+        },
+        {
+            "source": "SCG",
+            "sourceName": "Scentre Group",
+            "target": "TLS",
+            "targetName": "Telstra Corporation Limited",
+            "count": 1
+        },
+        {
+            "source": "SCG",
+            "sourceName": "Scentre Group",
+            "target": "WBC",
+            "targetName": "Westpac Banking Corporation",
+            "count": 1
+        },
+        {
+            "source": "SEK",
+            "sourceName": "SEEK Limited",
+            "target": "VOC",
+            "targetName": "Vocus Group Limited",
+            "count": 1
+        },
+        {
+            "source": "SEK",
+            "sourceName": "SEEK Limited",
+            "target": "WES",
+            "targetName": "Wesfarmers Limited",
+            "count": 1
+        },
+        {
+            "source": "SGM",
+            "sourceName": "Sims Limited",
+            "target": "WOR",
+            "targetName": "Worley Limited",
+            "count": 1
+        },
+        {
+            "source": "SGP",
+            "sourceName": "Stockland",
+            "target": "TCL",
+            "targetName": "Transurban Group",
+            "count": 1
+        },
+        {
+            "source": "SGP",
+            "sourceName": "Stockland",
+            "target": "WPR",
+            "targetName": "Waypoint REIT Limited",
+            "count": 1
+        },
+        {
+            "source": "SGR",
+            "sourceName": "The Star Entertainment Group Limited",
+            "target": "SUL",
+            "targetName": "Super Retail Group Limited",
+            "count": 1
+        },
+        {
+            "source": "SHL",
+            "sourceName": "Sonic Healthcare Limited",
+            "target": "SIG",
+            "targetName": "Sigma Healthcare Limited",
+            "count": 1
+        },
+        {
+            "source": "SHL",
+            "sourceName": "Sonic Healthcare Limited",
+            "target": "TCL",
+            "targetName": "Transurban Group",
+            "count": 1
+        },
+        {
+            "source": "SKI",
+            "sourceName": "Spark Infrastructure Group",
+            "target": "SUN",
+            "targetName": "Suncorp Group Limited",
+            "count": 1
+        },
+        {
+            "source": "SOL",
+            "sourceName": "Washington H. Soul Pattinson and Co. Limited",
+            "target": "TPG",
+            "targetName": "TPG Telecom Limited",
+            "count": 1
+        },
+        {
+            "source": "STO",
+            "sourceName": "Santos Limited",
+            "target": "TLS",
+            "targetName": "Telstra Corporation Limited",
+            "count": 1
+        },
+        {
+            "source": "SUL",
+            "sourceName": "Super Retail Group Limited",
+            "target": "SVW",
+            "targetName": "Seven Group Holdings Limited",
+            "count": 1
+        },
+        {
+            "source": "SYD",
+            "sourceName": "Sydney Airport",
+            "target": "TGR",
+            "targetName": "Tassal Group Limited",
+            "count": 1
+        },
+        {
+            "source": "SYD",
+            "sourceName": "Sydney Airport",
+            "target": "VCX",
+            "targetName": "Vicinity Centres",
+            "count": 1
+        },
+        {
+            "source": "TAH",
+            "sourceName": "Tabcorp Holdings Limited",
+            "target": "VOC",
+            "targetName": "Vocus Group Limited",
+            "count": 1
+        },
+        {
+            "source": "TGR",
+            "sourceName": "Tassal Group Limited",
+            "target": "VCX",
+            "targetName": "Vicinity Centres",
+            "count": 1
+        },
+        {
+            "source": "TGR",
+            "sourceName": "Tassal Group Limited",
+            "target": "WPR",
+            "targetName": "Waypoint REIT Limited",
+            "count": 1
+        },
+        {
+            "source": "TLS",
+            "sourceName": "Telstra Corporation Limited",
+            "target": "WBC",
+            "targetName": "Westpac Banking Corporation",
+            "count": 2
+        },
+        {
+            "source": "TWE",
+            "sourceName": "Treasury Wine Estates Limited",
+            "target": "WEB",
+            "targetName": "Webjet Limited",
+            "count": 1
+        },
+        {
+            "source": "TYR",
+            "sourceName": "Tyro Payments Limited",
+            "target": "XRO",
+            "targetName": "Xero Limited",
+            "count": 1
+        },
+        {
+            "source": "UMG",
+            "sourceName": "United Malt Group Limited",
+            "target": "VEA",
+            "targetName": "Viva Energy Group Limited",
+            "count": 1
+        },
+        {
+            "source": "URW",
+            "sourceName": "Unibail-Rodamco-Westfield",
+            "target": "WBC",
+            "targetName": "Westpac Banking Corporation",
+            "count": 1
+        },
+        {
+            "source": "VEA",
+            "sourceName": "Viva Energy Group Limited",
+            "target": "WPL",
+            "targetName": "Woodside Petroleum Limited",
+            "count": 1
+        },
+        {
+            "source": "WES",
+            "sourceName": "Wesfarmers Limited",
+            "target": "WOR",
+            "targetName": "Worley Limited",
+            "count": 1
+        },
+        {
+            "source": "WOR",
+            "sourceName": "Worley Limited",
+            "target": "WPL",
+            "targetName": "Woodside Petroleum Limited",
+            "count": 1
+        }
+    ]
+}
