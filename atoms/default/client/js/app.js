@@ -1,5 +1,14 @@
 import * as d3 from "d3"
 import { group } from 'd3-array'
+import mustache from 'shared/js/mustache'
+import template from "shared/templates/template.html"
+
+var tooltip = d3.select("body").append("div")
+          .attr("class", "tooltip")
+          .attr("id", "tooltip")
+          .style("position", "absolute")
+          .style("background-color", "white")
+          .style("opacity", 0);
 
 function init(data) {	
 
@@ -47,7 +56,7 @@ function init(data) {
 
 	var defs = svg.append("defs");
 
-	var tooltip = d3.select("#graphicContainer .infoInner")
+	//var tooltip = d3.select("#graphicContainer .infoInner")
 
 	var hints = true
 
@@ -186,9 +195,11 @@ function init(data) {
 			.join("line")
 			.attr("stroke-width", d => linkWidth(d.count))
 			.attr("class", "links")
-			// .on("mouseover.tooltip", makeTooltip())
 		  	.on('mouseover.fade', fade2(0.1, 'over'))
 		  	.on('mouseout.fade', fade2(1, 'out'))
+
+
+
 		  	// .on("mouseout.tooltip", resetTooltip())
 
 		// var linkCircles = features.selectAll(".linkCircle")
@@ -266,6 +277,16 @@ function init(data) {
 			.attr("fill-opacity","0")
 			.on('mouseover.fade', fade(0.1, 'over'))
 		  	.on('mouseout.fade', fade(1, 'out'))
+			.on("mouseover", function(d){
+				var text = mustache(template, d)
+        		tooltip.html(text)
+        		console.log(text)
+        		console.log(d)
+        		tooltip.transition().duration(200).style("opacity", .9)
+			})
+			.on("mouseout", function() {
+				tooltip.transition().duration(500).style("opacity", 0)
+			})
 			.call(drag(simulation))
 
 		var labels = nodes.append("text")	
@@ -275,9 +296,6 @@ function init(data) {
 			.attr('x', 0)
   			.attr('y', radiusVal + 16)
   			.attr("text-anchor", "middle")
-
-  	
-
 
 		 simulation.on("tick", () => {
 		    links
