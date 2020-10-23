@@ -94,6 +94,33 @@ function init(data) {
 
 	var features = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");	
 		
+	var companySelector = context.select("#companySelector");			
+		
+	data.nodes.sort(function(a, b) {
+		var nameA = a.name.toUpperCase()
+		var nameB = b.name.toUpperCase()
+		if (nameA < nameB) {
+		return -1;
+		}
+		if (nameA > nameB) {
+		return 1;
+		}
+
+		return 0;
+	});
+
+	companySelector.append("option")
+				.attr("value","nil")
+				.text("---")	
+
+	data.nodes.forEach(function (d) {
+
+			companySelector.append("option")
+				.attr("value",d.id)
+				.text(d.name)	
+		
+	})
+
 	var chartDataSave, atomSave, currentDogSave, currentGroupSave, chargeSave; 				
 
 
@@ -109,7 +136,14 @@ function init(data) {
 		// currentGroupSave = currentGroup
 		// chargeSave = charge
 
-		
+		if (type === 'company') {
+			radiusVal = 25
+		}
+
+		else {
+			radiusVal = 8
+		}
+
 
 		d3.select("#statusMessage").remove()
 
@@ -140,9 +174,17 @@ function init(data) {
 		
 		var totalNodes = data.nodes.length;
 
+		var distance = 50
+		var blaf
+		if (type === 'company') {
+			distance = d3.min([width/2, 150])
+		}
+
+		console.log(distance)
+
 		var simulation = d3.forceSimulation(chartData.nodes)
-		    .force("link", d3.forceLink(chartData.links).id(d => d.id).distance(50))
-		    .force("charge", d3.forceManyBody(-1000))
+		    .force("link", d3.forceLink(chartData.links).id(d => d.id).distance(distance))
+		    .force("charge", d3.forceManyBody())
 		    .force("x", d3.forceX())
       		.force("y", d3.forceY())
 		    .force("collide", d3.forceCollide().radius(radiusVal + 2).iterations(2))
@@ -451,12 +493,35 @@ function init(data) {
 	}
 
 
-	var newData = filterData('ALD'); 
+	companySelector.on("change", function() {
 
-	setTimeout(function () {
-		makeChart(newData)
-	},3000)
-	console.log("new", newData)
+		var newWidth = document.querySelector(`#graphicContainer`).getBoundingClientRect().width
+		
+		var currentCompany = d3.select(this).property('value')
+
+		d3.select("#resetButton").style("display", "block")
+
+		if (currentCompany != "nil") {
+			var newData = filterData(d3.select(this).property('value'));
+				// console.log("newData",newData)
+			makeChart(newData, 'company')
+
+	
+		}
+		
+		else {
+			makeChart(JSON.parse(JSON.stringify(data)), 'all')
+			d3.select("#resetButton").style("display", "none")
+		}
+	
+	});
+
+
+	d3.select("#resetButton").on("click", function() {
+		makeChart(JSON.parse(JSON.stringify(data)), 'all')
+		companySelector.property("value", "nil")
+		d3.select("#resetButton").style("display", "none")
+	})
 
 	function makeKey() {
 		context.select("#chartKey svg").remove()
