@@ -1,0 +1,667 @@
+/**
+ * Data font stack
+ *
+ * @group typography
+ */
+/**
+ * Serif font stack
+ *
+ * @group typography
+ */
+/**
+ * Headline font stack
+ *
+ * @group typography
+ */
+/**
+ * Sans serif text font stack
+ *
+ * @group typography
+ */
+/**
+ * Sans serif headline font stack
+ *
+ * @group typography
+ */
+/**
+ * Default font scale settings
+ * See font-scale.html and font-scale.png for visual representations
+ *
+ * @group typography
+ */
+/**
+ * Grab all levels of a font the font-scale
+ *
+ * @param {String} $name - Name of the font-scale matrix (eg: headline)
+ * @param {Map} $font-scale ($font-scale)
+ *
+ * @example
+ *  font-size: get-scale(header);
+ *
+ * @requires {variable} $font-scale
+ *
+ * @return {Map}
+ *
+ * @group typography
+ */
+/**
+ * Grab info for a particular level of a font-scale
+ *
+ * @param {String} $name - Name of the font-scale in the matrix (eg: headline)
+ * @param {Number} $level - Level in the matrix
+ * @param {Map} $font-scale ($font-scale)
+ *
+ * @example
+ *  font-size: get-scale-level(header, 1);
+ *
+ * @requires {variable} $font-scale
+ * @requires {function} get-scale
+ *
+ * @return {Map}
+ *
+ * @group typography
+ */
+/**
+ * Get a font-size for a level in the font-scale matrix
+ *
+ * @param {String} $name - Name of the font-scale in the matrix (eg: headline)
+ * @param {Number} $level - Level in the matrix
+ * @param {Map} $font-scale - Configuration
+ *
+ * @example
+ *  font-size: get-font-size(header, 3);
+ *
+ * @requires {variable} $font-scale
+ * @requires {function} convert-to-px
+ * @requires {function} get-scale-level
+ *
+ * @return {Number}
+ *
+ * @group typography
+ */
+/**
+ * Get a line-height for a level in the font-scale matrix
+ *
+ * @param {String} $name - Name of the font-scale in the matrix (eg: headline)
+ * @param {Number} $level - Level in the matrix
+ * @param {Map} $font-scale - Configuration
+ *
+ * @example
+ *  font-size: get-line-height(header, 3);
+ *
+ * @requires {variable} $font-scale
+ * @requires {function} convert-to-px
+ * @requires {function} get-scale-level
+ *
+ * @return {Number}
+ *
+ * @group typography
+ */
+/**
+ * Turn any value into pixels
+ *
+ * @param {Number} $value
+ *
+ * @example
+ *  font-size: convert-to-px(14); // 14px
+ *
+ * @return {Number}
+ *
+ * @group typography
+ */
+/**
+ * Default typography settings, to be included as soon as possible in the HTML
+ * 1. Make type rendering look crisper
+ * 2. Set relative line spacing to 1.5 (16px * 1.5 = 24px)
+ *
+ * @param {String} $font-family ($f-serif-text) - Default global font
+ *
+ * @requires {variable} $f-serif-text
+ *
+ * @group typography
+ */
+/**
+ * Font-size and line-height shorthand
+ *
+ * @param {Number} $size
+ * @param {Number} $line-height ($size)
+ *
+ * @example
+ *  @include font-size(18, 24);
+ *
+ * @requires {function} convert-to-px
+ *
+ * @group typography
+ */
+/**
+ * Font styling shorthand  
+ * Note: prefer the usage of the font-scale mixins to stick to the font scale
+ *
+ * @param {String} $family
+ * @param {String} $weight
+ * @param {Number} $size
+ * @param {Number} $line-height ($size)
+ *
+ * @example
+ *  @include font(arial, bold, 18, 24);
+ *
+ * @requires {mixin} font-size
+ *
+ * @group typography
+ */
+/**
+ * Header family and weight properties.
+ *
+ * @requires {variable} $f-serif-headline
+ *
+ * @group typography
+ */
+/**
+ * Header typography settings.
+ *
+ * @param {Number} $level
+ * @param {Boolean} $size-only
+ *
+ * @example
+ *  // Output all properties (font-size, line-height, family, weight)
+ *  @include fs-header(3);
+ *  
+ *  // Output font-size and line-height only
+ *  @include fs-header(3, $size-only: true);
+ *
+ * @requires {function} get-font-size
+ * @requires {function} get-line-height
+ * @requires {mixin} font-size
+ * @requires {mixin} f-header
+ *
+ * @group typography
+ */
+/**
+ * Healdine family and weight properties.
+ *
+ * @requires {variable} $f-serif-headline
+ *
+ * @group typography
+ */
+/**
+ * Headline typography settings.
+ *
+ * @param {Number} $level
+ * @param {Boolean} $size-only
+ *
+ * @example
+ *  // Output all properties (font-size, line-height, family, weight)
+ *  @include fs-headline(3);
+ *  
+ *  // Output font-size and line-height only
+ *  @include fs-headline(3, $size-only: true);
+ *
+ * @requires {function} get-font-size
+ * @requires {function} get-line-height
+ * @requires {mixin} font-size
+ * @requires {mixin} f-headline
+ *
+ * @group typography
+ */
+/**
+ * Body Heading family and weight properties.
+ *
+ * @requires {variable} $f-serif-text
+ *
+ * @group typography
+ */
+/**
+ * Body Heading typography settings.
+ *
+ * @param {Number} $level
+ * @param {Boolean} $size-only
+ *
+ * @example
+ *  // Output all properties (font-size, line-height, family, weight)
+ *  @include fs-bodyHeading(3);
+ *  
+ *  // Output font-size and line-height only
+ *  @include fs-bodyHeading(3, $size-only: true);
+ *
+ * @requires {function} get-font-size
+ * @requires {function} get-line-height
+ * @requires {mixin} font-size
+ * @requires {mixin} f-bodyHeading
+ *
+ * @group typography
+ */
+/**
+ * Body Copy family property.
+ *
+ * @requires {variable} $f-serif-text
+ *
+ * @group typography
+ */
+/**
+ * Body Copy typography settings.
+ *
+ * @param {Number} $level
+ * @param {Boolean} $size-only
+ *
+ * @example
+ *  // Output all properties (font-size, line-height, family)
+ *  @include fs-bodyCopy(3);
+ *  
+ *  // Output font-size and line-height only
+ *  @include fs-bodyCopy(3, $size-only: true);
+ *
+ * @requires {function} get-font-size
+ * @requires {function} get-line-height
+ * @requires {mixin} font-size
+ * @requires {mixin} f-bodyCopy
+ *
+ * @group typography
+ */
+/**
+ * Data family property.
+ *
+ * @requires {variable} $f-data
+ *
+ * @group typography
+ */
+/**
+ * Data typography settings.
+ *
+ * @param {Number} $level
+ * @param {Boolean} $size-only
+ *
+ * @example
+ *  // Output all properties (font-size, line-height, family)
+ *  @include fs-data(3);
+ *  
+ *  // Output font-size and line-height only
+ *  @include fs-data(3, $size-only: true);
+ *
+ * @requires {function} get-font-size
+ * @requires {function} get-line-height
+ * @requires {mixin} font-size
+ * @requires {mixin} f-data
+ *
+ * @group typography
+ */
+/**
+ * Text Sans family property.
+ *
+ * @requires {variable} $f-sans-serif-text
+ *
+ * @group typography
+ */
+/**
+ * Text Sans typography settings.
+ *
+ * @param {Number} $level
+ * @param {Boolean} $size-only
+ *
+ * @example
+ *  // Output all properties (font-size, line-height, family)
+ *  @include fs-textSans(3);
+ *  
+ *  // Output font-size and line-height only
+ *  @include fs-textSans(3, $size-only: true);
+ *
+ * @requires {function} get-font-size
+ * @requires {function} get-line-height
+ * @requires {mixin} font-size
+ * @requires {mixin} f-textSans
+ *
+ * @group typography
+ */
+/**
+ * Headline Sans family property.  
+ * Is not currently integrated into our font scale matrix,
+ * hence no `fs-` mixin; currently we're just using it as a
+ * replacement font in a few places.
+ *
+ * @requires {variable} $f-sans-serif-headline
+ *
+ * @group typography
+ */
+@font-face {
+  font-family: "Guardian Headline Full";
+  src: url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-Light.woff2") format("woff2"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-Light.woff") format("woff"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Guardian Headline Full";
+  src: url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-LightItalic.woff2") format("woff2"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-LightItalic.woff") format("woff"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic; }
+
+@font-face {
+  font-family: "Guardian Headline Full";
+  src: url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-Regular.woff2") format("woff2"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-Regular.woff") format("woff"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Guardian Headline Full";
+  src: url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-RegularItalic.woff2") format("woff2"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-RegularItalic.woff") format("woff"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-RegularItalic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic; }
+
+@font-face {
+  font-family: "Guardian Headline Full";
+  src: url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-Medium.woff2") format("woff2"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-Medium.woff") format("woff"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Guardian Headline Full";
+  src: url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-MediumItalic.woff2") format("woff2"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-MediumItalic.woff") format("woff"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic; }
+
+@font-face {
+  font-family: "Guardian Headline Full";
+  src: url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-Semibold.woff2") format("woff2"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-Semibold.woff") format("woff"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-Semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Guardian Headline Full";
+  src: url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-SemiboldItalic.woff2") format("woff2"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-SemiboldItalic.woff") format("woff"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-SemiboldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic; }
+
+@font-face {
+  font-family: "Guardian Headline Full";
+  src: url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-Bold.woff2") format("woff2"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-Bold.woff") format("woff"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Guardian Headline Full";
+  src: url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-BoldItalic.woff2") format("woff2"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-BoldItalic.woff") format("woff"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic; }
+
+@font-face {
+  font-family: "Guardian Headline Full";
+  src: url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-Black.woff2") format("woff2"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-Black.woff") format("woff"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Guardian Headline Full";
+  src: url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-BlackItalic.woff2") format("woff2"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-BlackItalic.woff") format("woff"), url("https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic; }
+
+@font-face {
+  font-family: "Guardian Titlepiece";
+  src: url("https://interactive.guim.co.uk/fonts/garnett/GTGuardianTitlepiece-Bold.woff2") format("woff2"), url("https://interactive.guim.co.uk/fonts/garnett/GTGuardianTitlepiece-Bold.woff") format("woff"), url("https://interactive.guim.co.uk/fonts/garnett/GTGuardianTitlepiece-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal; }
+
+.interactive-wrapper {
+  border-top: 1px solid #dcdcdc;
+  border-bottom: 1px solid #dcdcdc;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  background-color: #FFF; }
+  .interactive-wrapper .axis path,
+  .interactive-wrapper .axis line {
+    fill: none;
+    stroke: #767676;
+    shape-rendering: crispEdges; }
+  .interactive-wrapper .figureTitle {
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 600;
+    -webkit-font-smoothing: antialiased;
+    color: #333333;
+    font-family: "GH Guardian Headline", Georgia, serif;
+    margin-bottom: 2px; }
+  .interactive-wrapper a {
+    color: #ab0613;
+    text-decoration: none !important;
+    border-bottom: 0.0625rem solid #dcdcdc;
+    -webkit-transition: border-color 0.15s ease-out;
+    transition: border-color 0.15s ease-out; }
+  .interactive-wrapper a:hover {
+    border-color: #ab0613; }
+  .interactive-wrapper .subTitle {
+    font-size: 16px;
+    line-height: 20px;
+    color: #333333;
+    font-family: "Guardian Egyptian Web", Georgia, serif; }
+  .interactive-wrapper .footer {
+    margin-top: 5px;
+    font-size: 12px;
+    line-height: 16px;
+    color: #767676;
+    font-family: 'Guardian Text Sans Web', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; }
+  .interactive-wrapper .notes {
+    font-family: 'Guardian Text Sans Web',Arial;
+    font-size: 16px;
+    color: #767676; }
+  .interactive-wrapper .controls, .interactive-wrapper .key {
+    /*color:#000;*/
+    font-weight: bold; }
+  .interactive-wrapper .chartSans {
+    font-size: 12px;
+    color: #767676;
+    font-family: 'Guardian Text Sans Web', 'Agate Sans', sans-serif; }
+  .interactive-wrapper .label {
+    font-size: 12px;
+    fill: #000;
+    stroke: none;
+    font-family: 'Guardian Text Sans Web', 'Agate Sans', sans-serif;
+    pointer-events: none; }
+  .interactive-wrapper .tick text {
+    font-size: 0.8rem;
+    line-height: 1em;
+    font-family: 'Guardian Text Sans Web', 'Agate Sans', sans-serif; }
+  .interactive-wrapper .keyText {
+    font-size: 0.8em;
+    margin-right: 5px; }
+  .interactive-wrapper #chartKey div {
+    margin-left: 10px; }
+  .interactive-wrapper #chartKey div:first-child {
+    margin-left: 0px; }
+  .interactive-wrapper .keyDiv {
+    display: inline-block; }
+  .interactive-wrapper .keyDiv .keyCircle:first-of-type {
+    margin-left: 0; }
+  .interactive-wrapper .keyCircle {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    display: inline-block; }
+  .interactive-wrapper .annotationTextMobile {
+    font-weight: bold; }
+  .interactive-wrapper #footerAnnotations {
+    color: #000; }
+  .interactive-wrapper .periodLabel {
+    fill: #cccccc;
+    text-transform: uppercase;
+    font-weight: bold; }
+  .interactive-wrapper .barPart:hover {
+    opacity: 0.7; }
+  .interactive-wrapper .row {
+    margin-bottom: 10px; }
+  .interactive-wrapper .tooltip {
+    font-size: 16px;
+    pointer-events: none;
+    border: 1px #000 solid;
+    padding: 2px 5px 2px 5px;
+    color: #000; }
+  .interactive-wrapper .line {
+    fill: none; }
+  @media (max-width: 450px) {
+    .interactive-wrapper .mobHide {
+      display: none; } }
+
+.row {
+  margin-bottom: 20px; }
+
+.row:after {
+  content: " ";
+  /* Older browser do not support empty content */
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both; }
+
+.col10 {
+  float: left;
+  width: 9%;
+  margin-right: 1%; }
+
+.col20 {
+  float: left;
+  width: 19%;
+  margin-right: 1%; }
+
+.col30 {
+  float: left;
+  width: 29%;
+  margin-right: 1%; }
+
+.col33 {
+  float: left;
+  width: 33.33%;
+  margin-right: 1%; }
+
+.col40 {
+  float: left;
+  width: 39%;
+  margin-right: 1%; }
+
+.col50 {
+  float: left;
+  width: 49%;
+  margin-right: 1%; }
+
+.col60 {
+  float: left;
+  width: 49%;
+  margin-right: 1%; }
+
+.col66 {
+  float: left;
+  width: 66.66%;
+  margin-right: 1%; }
+
+.col70 {
+  float: left;
+  width: 69%;
+  margin-right: 1%; }
+
+.col80 {
+  float: left;
+  width: 79%;
+  margin-right: 1%; }
+
+.col90 {
+  float: left;
+  width: 79%;
+  margin-right: 1%; }
+
+@media (max-width: 750px) {
+  .col10, .col20, .col30, .col40, .col50, .col70 {
+    width: 100%;
+    margin: 0;
+    margin-bottom: 20px; }
+  .row {
+    margin-bottom: 0px; } }
+
+.interactive-atom {
+  margin: 0;
+  padding: 0;
+  /*   #keySvg {
+    	background-color: red;
+    }*/ }
+  .interactive-atom .all .articleLink a {
+    display: none; }
+  .interactive-atom .interactive-container {
+    max-width: 1200px; }
+  .interactive-atom #graphicContainer {
+    position: relative; }
+  .interactive-atom #controlRow {
+    position: relative; }
+  .interactive-atom #hintSelector {
+    position: absolute;
+    left: 180px;
+    top: 54px; }
+  .interactive-atom #hintDogs {
+    position: absolute;
+    left: 50%;
+    top: 20%; }
+  .interactive-atom .hints {
+    cursor: pointer; }
+  @media (max-width: 750px) {
+    .interactive-atom #hintSelector {
+      left: 180px;
+      top: 60px; }
+    .interactive-atom #hintDogs {
+      left: 50%;
+      top: 20%; } }
+  @media (max-width: 450px) {
+    .interactive-atom #hintSelector {
+      max-width: 50%; }
+    .interactive-atom #hintDogs {
+      max-width: 50%; } }
+  .interactive-atom #infoPanel {
+    background-color: #FFF;
+    border: 2px solid #000;
+    position: absolute;
+    left: 10px;
+    top: 10px; }
+  .interactive-atom #resetButton {
+    position: absolute;
+    right: 60px;
+    top: 10px;
+    cursor: pointer;
+    display: none; }
+  .interactive-atom .btn {
+    background-color: #c70000;
+    border-radius: 62.5rem;
+    border: none;
+    display: inline-block;
+    outline: 0;
+    box-sizing: border-box;
+    font-size: 14px;
+    line-height: 16px;
+    font-family: 'Guardian Text Sans Web', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+    color: #FFF;
+    padding: 4px 10px;
+    margin: 1px 1px;
+    text-align: right;
+    cursor: pointer; }
+  .interactive-atom .infoInner {
+    padding: 5px; }
+  .interactive-atom .hide {
+    display: none; }
+  .interactive-atom #chartKey {
+    width: 100%; }
+  .interactive-atom .keyText {
+    fill: #767676;
+    color: #767676;
+    font-size: 12px; }
+  .interactive-atom .upDown {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    border: 0.5px solid #767676;
+    display: inline-block;
+    font-size: 13px;
+    text-align: center; }
+  .interactive-atom .upDownButton {
+    cursor: pointer;
+    margin-bottom: 10px; }
+  .interactive-atom #colorKey div {
+    display: inline-block; }
+  .interactive-atom #colorKey .colorKeyDiv {
+    padding-right: 10px; }
+  .interactive-atom #colorKey .colorKeyCircle {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    display: inline-block; }
