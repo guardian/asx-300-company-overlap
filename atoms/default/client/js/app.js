@@ -314,6 +314,9 @@ function init(data) {
 			.on('mouseover.fade', fade(0.1, 'over'))
 		  	.on('mouseout.fade', fade(1, 'out'))
 			.on("mouseover", function(d){
+				var target = chartData.links.filter(item => item.targetName === d.name).length
+				var source = chartData.links.filter(item => item.sourceName === d.name).length
+				d.connections = target + source
 				var text = mustache(template, d)
         		tooltip.html(text)
         		tooltip.transition().duration(200).style("opacity", .9)
