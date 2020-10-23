@@ -3,12 +3,7 @@ import { group } from 'd3-array'
 import mustache from 'shared/js/mustache'
 import template from "shared/templates/template.html"
 
-var tooltip = d3.select("body").append("div")
-          .attr("class", "tooltip")
-          .attr("id", "tooltip")
-          .style("position", "absolute")
-          .style("background-color", "white")
-          .style("opacity", 0);
+
 
 function init(data) {	
 
@@ -54,9 +49,10 @@ function init(data) {
 				.attr("id", "svg")
 				.attr("overflow", "hidden");
 
-	var defs = svg.append("defs");
+				
+	var tooltip = d3.select("#tooltip")
 
-	//var tooltip = d3.select("#graphicContainer .infoInner")
+	var defs = svg.append("defs");
 
 	var hints = true
 
@@ -81,8 +77,6 @@ function init(data) {
 				.attr("viewBox", [-width / 2, -height / 2, width, height]);
 
 	var defs = svg.append("defs");
-
-	// var tooltip = d3.select("#graphicContainer .infoInner")
 
 	var extent = d3.extent(data.links, d => d.count)
 	console.log(extent)
@@ -322,8 +316,6 @@ function init(data) {
 			.on("mouseover", function(d){
 				var text = mustache(template, d)
         		tooltip.html(text)
-        		console.log(text)
-        		console.log(d)
         		tooltip.transition().duration(200).style("opacity", .9)
 			})
 			.on("mouseout", function() {
