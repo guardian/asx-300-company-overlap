@@ -101,13 +101,15 @@ function init(data) {
 	    .domain(["F","M"])
 	    .range(["#d95f02","#1b9e77"])
 
-	function makeChart() {
+	function makeChart(chartData, type) {
 
 		// chartDataSave = selectedData
 		// atomSave = atom
 		// currentDogSave = currentDog
 		// currentGroupSave = currentGroup
 		// chargeSave = charge
+
+		
 
 		d3.select("#statusMessage").remove()
 
@@ -138,8 +140,8 @@ function init(data) {
 		
 		var totalNodes = data.nodes.length;
 
-		var simulation = d3.forceSimulation(data.nodes)
-		    .force("link", d3.forceLink(data.links).id(d => d.id).distance(50))
+		var simulation = d3.forceSimulation(chartData.nodes)
+		    .force("link", d3.forceLink(chartData.links).id(d => d.id).distance(50))
 		    .force("charge", d3.forceManyBody(-1000))
 		    .force("x", d3.forceX())
       		.force("y", d3.forceY())
@@ -180,7 +182,7 @@ function init(data) {
 			.attr("stroke", "#bababa")
 			.attr("stroke-opacity", 0.7)
 			.selectAll("line")
-			.data(data.links)
+			.data(chartData.links)
 			.join("line")
 			.attr("stroke-width", d => linkWidth(d.count))
 			.attr("class", "links")
@@ -221,7 +223,7 @@ function init(data) {
 		var nodes = features.append("g")
 			.attr("class", "nodes")
 		.selectAll("g")
-		    .data(data.nodes)
+		    .data(chartData.nodes)
 		    .enter().append("g")
 		    .attr("id", d => d.id)
 		    .style("opacity", 1)
@@ -345,7 +347,7 @@ function init(data) {
 
 
 		  const linkedByIndex = {};
-		 	data.links.forEach(d => {
+		 	chartData.links.forEach(d => {
 		    linkedByIndex[`${d.source.index},${d.target.index}`] = 1;
 		  });
 
@@ -428,8 +430,33 @@ function init(data) {
 	} // end make chart
 	
 
-	makeChart()
+	makeChart(JSON.parse(JSON.stringify(data)), 'all')
 
+	function filterData(filterBy) {
+		// Clone dogs so we don't modify the orig data with d3 force stuff
+		var dataClone = JSON.parse(JSON.stringify(data))
+
+		var filteredData = {}
+		filteredData.links = dataClone.links.filter(d => (d.source == filterBy) | (d.target == filterBy))
+		// console.log(filteredData.links)
+		var setNodes = new Set()
+		setNodes.add(filterBy)
+		filteredData.links.forEach(d => {
+			setNodes.add(d.target)
+			setNodes.add(d.source)  
+		})
+		filteredData.nodes = dataClone.nodes.filter(d => setNodes.has(d.id))
+
+		return filteredData
+	}
+
+
+	var newData = filterData('ALD'); 
+
+	setTimeout(function () {
+		makeChart(newData)
+	},3000)
+	console.log("new", newData)
 
 	function makeKey() {
 		context.select("#chartKey svg").remove()
