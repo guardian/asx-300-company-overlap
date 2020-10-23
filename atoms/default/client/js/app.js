@@ -11,7 +11,6 @@ const template = `<div>
 //shared/templates/template.html"
 
 
-
 function init(data) {	
 
 	var width = document.querySelector("#graphicContainer").getBoundingClientRect().width;
