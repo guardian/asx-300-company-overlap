@@ -40,6 +40,12 @@ function init(data) {
 		height = width * 1.6
 		scaleVal = 0.8
 	}
+
+	height = 600
+
+	if (isMobile) {
+		height = 500
+	}
 	
 	var margin = {top: 0, right: 0, bottom: 0, left:0};
 	
@@ -136,7 +142,7 @@ function init(data) {
 	    .domain(["F","M"])
 	    .range(["#d95f02","#1b9e77"])
 
-	function makeChart(chartData, type) {
+	function makeChart(chartData, type, currentCompany) {
 
 		// chartDataSave = selectedData
 		// atomSave = atom
@@ -145,7 +151,7 @@ function init(data) {
 		// chargeSave = charge
 
 		if (type === 'company') {
-			radiusVal = 25
+			radiusVal = 20
 		}
 
 		else {
@@ -185,17 +191,33 @@ function init(data) {
 		var distance = 50
 		var blaf
 		if (type === 'company') {
-			distance = d3.min([width/2, 150])
+			distance = d3.min([(width * 0.33) - (radiusVal*2), 150])
+
 		}
 
 		console.log(distance)
 
-		var simulation = d3.forceSimulation(chartData.nodes)
-		    .force("link", d3.forceLink(chartData.links).id(d => d.id).distance(distance))
-		    .force("charge", d3.forceManyBody())
-		    .force("x", d3.forceX())
-      		.force("y", d3.forceY())
-		    .force("collide", d3.forceCollide().radius(radiusVal + 2).iterations(2))
+
+		if (type === 'company') {
+			
+			var simulation = d3.forceSimulation(chartData.nodes)
+			     .force("link", d3.forceLink(chartData.links).id(d => d.id).distance(distance))
+			     .force("charge", d3.forceManyBody().strength(-1000))
+			     .force("center", d3.forceCenter(0, 0))
+			     .force("collide", d3.forceCollide().radius(radiusVal + 2).iterations(2))
+
+		}
+
+		else {
+			var simulation = d3.forceSimulation(chartData.nodes)
+			    .force("link", d3.forceLink(chartData.links).id(d => d.id).distance(distance))
+			    .force("charge", d3.forceManyBody())
+			    .force("x", d3.forceX())
+	      		.force("y", d3.forceY())
+			    .force("collide", d3.forceCollide().radius(radiusVal + 2).iterations(2))
+		}
+
+
 
 		// simulation.nodes(selectedData.nodes);
   // 		simulation.force("link").links(selectedData.links);      
@@ -339,6 +361,8 @@ function init(data) {
   			.attr('y', radiusVal + 16)
   			.attr("text-anchor", "middle")
 
+  	
+
 		 simulation.on("tick", () => {
 		    links
 		        .attr("x1", function(d) {
@@ -442,9 +466,9 @@ function init(data) {
 
 		      }
 
-		  //    if (currentDog) {
-		  //     	context.select(`#${currentDog} .label`).style("opacity",1)
-				// }
+		     if (currentCompany) {
+		      	d3.selectAll(`#${currentCompany} .label`).style("opacity",1)
+				}
 
 
 		    };
@@ -479,18 +503,20 @@ function init(data) {
 		      		// linkCircles.style('opacity', 0);
 		      }
 
-		  //     if (currentDog) {
-		  //     	context.select(`#${currentDog} .label`).style("opacity",1)
-				// }
+		      if (currentCompany) {
+		      		d3.select(`#${currentCompany} .label`).style("opacity",1)
+				}
 
 		    };
 		 }
 
 
+			if (type === 'company') {
+	      		d3.selectAll(`#${currentCompany} .label`).style("opacity",1)
+			}	
 	} // end make chart
 	
 
-	makeChart(JSON.parse(JSON.stringify(data)), 'all')
 
 	function filterData(filterBy) {
 		// Clone dogs so we don't modify the orig data with d3 force stuff
@@ -511,19 +537,40 @@ function init(data) {
 	}
 
 
+	function getRandomInt(max) {
+ 	 return Math.floor(Math.random() * Math.floor(max));
+	}
+
+	if (isMobile) {
+
+		var banks = ['ANZ', 'NAB', 'CBA', 'WBC'];
+		var rand = getRandomInt(4)
+
+		var newData = filterData(banks[rand]);
+		makeChart(newData, 'company', banks[rand])
+		companySelector.property("value", banks[rand])
+	}
+
+	else {
+		makeChart(JSON.parse(JSON.stringify(data)), 'all')
+	}
+	
+
 	companySelector.on("change", function() {
 
 		var newWidth = document.querySelector(`#graphicContainer`).getBoundingClientRect().width
 		
 		var currentCompany = d3.select(this).property('value')
+		console.log(currentCompany)
 
-		d3.select("#resetButton").style("display", "block")
+		if (!isMobile) {
+			d3.select("#resetButton").style("display", "block")	
+		}
 
 		if (currentCompany != "nil") {
 			var newData = filterData(d3.select(this).property('value'));
 				// console.log("newData",newData)
-			makeChart(newData, 'company')
-
+			makeChart(newData, 'company', currentCompany)
 	
 		}
 		
@@ -616,10 +663,10 @@ function init(data) {
 
 	makeKey()
 
-	var to=null
-	// var lastWidth = document.querySelector(`.${dogbreed} #graphicContainer`).getBoundingClientRect().width;
+	// var to=null
+	// var lastWidth = document.querySelector(`#graphicContainer`).getBoundingClientRect().width;
 	// window.addEventListener('resize', function() {
-	// 	var thisWidth = document.querySelector(`.${dogbreed} #graphicContainer`).getBoundingClientRect().width
+	// 	var thisWidth = document.querySelector(`#graphicContainer`).getBoundingClientRect().width
 	// 	if (width != thisWidth) {
 	// 		window.clearTimeout(to);
 	// 		to = window.setTimeout(function() {
@@ -631,9 +678,9 @@ function init(data) {
 
 	// function resizeChart(newWidth) {
 
-	// 	// if (newWidth <= 620) {
-	// 	// 	isMobile = true
-	// 	// }		
+	// 	if (newWidth <= 620) {
+	// 		isMobile = true
+	// 	}		
 
 	// 	// if (isMobile) {
 	// 	// 	radiusVal = 10
@@ -644,8 +691,7 @@ function init(data) {
 	// 	// }
 
 	// 	console.log("resize")
-	// 	linkMax = Math.min(newWidth/2 - (radiusVal *2), 170) 
-	// 	linkMin = Math.min(newWidth/4 - (radiusVal *2), 70) 
+		
 	// 	svg.attr("width", newWidth - margin.left - margin.right)
 
 	// 	linkLength.range([linkMax, linkMin])

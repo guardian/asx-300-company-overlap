@@ -13,9 +13,11 @@
         display: none;
     }
 
-    .interactive-container {
+}
+
+.interactive-container {
     	max-width: 1200px;
-    }
+    
 
     #graphicContainer {
     	position: relative;
@@ -97,7 +99,6 @@
 	    margin: 1px 1px;
 	    text-align: right;
 	    cursor:pointer;
-  		
   	}
 
     .infoInner {
@@ -107,6 +108,27 @@
     .hide {
     	display: none;
     }
+
+     @media (min-width: 620px) {
+        .hide-mobile {
+            display:none;
+        }
+    }
+    
+    @media (max-width: 750px) {
+
+        #companySelector {
+            max-width: 80%;
+        }
+    }
+
+     #companySelector {
+            max-width:100%;
+     }
+
+    .hide-mobile {
+            display:block;
+        }
 
     #chartKey {
     	width: 100%;
